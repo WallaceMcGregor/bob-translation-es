@@ -1,6 +1,6 @@
 # Traducción al español de Band of Blades
 
-Este módulo contiene la traducción actualizada del sistema procedente de la edición de [No Solo Rol](https://www.nosolorol.com/es/conbarba/1179/band-of-blades-papel).
+Este módulo contiene la traducción actualizada del sistema procedente de la edición de [NoSoloRol](https://www.nosolorol.com/es/conbarba/1179/band-of-blades-papel).
 
 ## Instalación
 
