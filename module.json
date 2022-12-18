@@ -8,7 +8,7 @@
   "flags": {},
   "version": "1.0",
   "minimumCoreVersion": "9",
-  "compatibleCoreVersion": "9.280",
+  "compatibleCoreVersion": "10",
   "scripts": [],
   "esmodules": [],
   "styles": [],
