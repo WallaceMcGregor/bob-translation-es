@@ -26,7 +26,7 @@
     }
   ],
   "packs": [],
-  "system": ["band-of-blades",
+  "system": "band-of-blades",
   "systemVersion": "1.8.3",
   "url": "https://github.com/WallaceMcGregor/bob-translation-es",
   "manifest": "https://raw.githubusercontent.com/WallaceMcGregor/bob-translation-es/main/module.json",
