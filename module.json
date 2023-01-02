@@ -2,7 +2,7 @@
   "name": "bob-translation-es",
   "title": "[Translation] Band of Blades Spanish",
   "description": "Este módulo contiene la traducción actualizada del sistema de Band of Blades",
-  "version": "1.0.3",
+  "version": "1.2",
   "author": "WallaceMcGregor",
   "minimumCoreVersion": "9",
   "compatibleCoreVersion": "10",
@@ -27,7 +27,143 @@
       "path": "lang/es.json"
     }
   ],
-  "packs": [],
+  "packs": [
+    {
+      "name": "abilities",
+      "label": "Habilidades",
+      "package": "bob-translation-es",
+      "path": "packs/abilities.db",
+      "entity": "Item",
+      "type": "Item",
+      "private": false
+    },
+    {
+      "name": "chosen",
+      "label": "Elegidos/Quebrados",
+      "package": "bob-translation-es",
+      "path": "packs/chosen.db",
+      "entity": "Item",
+      "type": "Item",
+      "private": false
+    },
+    {
+      "name": "chosenabilities",
+      "label": "Habilidades de Elegido/Quebrado",
+      "package": "bob-translation-es",
+      "path": "packs/chosenabilities.db",
+      "entity": "Item",
+      "type": "Item",
+      "private": false
+    },
+    {
+      "name": "classes",
+      "label": "Libretos",
+      "package": "bob-translation-es",
+      "path": "packs/classes.db",
+      "entity": "Item",
+      "type": "Item",
+      "private": false
+    },
+    {
+      "name": "heritages",
+      "label": "Legados",
+      "package": "bob-translation-es",
+      "path": "packs/heritages.db",
+      "entity": "Item",
+      "type": "Item",
+      "private": false
+    },
+    {
+      "name": "items",
+      "label": "Equipo",
+      "package": "bob-translation-es",
+      "path": "packs/items.db",
+      "entity": "Item",
+      "type": "Item",
+      "private": false
+    },
+    {
+      "name": "materiel",
+      "label": "Equipamiento",
+      "package": "bob-translation-es",
+      "path": "packs/materiel.db",
+      "entity": "Item",
+      "type": "Item",
+      "private": false
+    },
+    {
+      "name": "minions",
+      "label": "Ejércitos de no muertos",
+      "package": "bob-translation-es",
+      "path": "packs/minions.db",
+      "entity": "Actor",
+      "type": "Actor",
+      "private": false
+    },
+    {
+      "name": "missions",
+      "label": "Tablas de Misiones",
+      "package": "bob-translation-es",
+      "path": "packs/missions.db",
+      "entity": "RollTable",
+      "type": "RollTable",
+      "private": false
+    },
+    {
+      "name": "network",
+      "label": "Red de espías",
+      "package": "bob-translation-es",
+      "path": "packs/network.db",
+      "entity": "Item",
+      "type": "Item",
+      "private": false
+    },
+    {
+      "name": "personnel",
+      "label": "Personal",
+      "package": "bob-translation-es",
+      "path": "packs/personnel.db",
+      "entity": "Item",
+      "type": "Item",
+      "private": false
+    },
+    {
+      "name": "roles",
+      "label": "Roles",
+      "package": "bob-translation-es",
+      "path": "packs/roles.db",
+      "entity": "Item",
+      "type": "Item",
+      "private": false
+    },
+    {
+      "name": "spies",
+      "label": "Espías",
+      "package": "bob-translation-es",
+      "path": "packs/spies.db",
+      "entity": "Item",
+      "type": "Item",
+      "private": false
+    },
+    {
+      "name": "squads",
+      "label": "Pelotones",
+      "package": "bob-translation-es",
+      "path": "packs/squads.db",
+      "entity": "Item",
+      "type": "Item",
+      "private": false
+    },
+    {
+      "name": "traits",
+      "label": "Rasgos",
+      "package": "bob-translation-es",
+      "path": "packs/traits.db",
+      "entity": "Item",
+      "type": "Item",
+      "private": false
+    }
+  ],
   "system": "band-of-blades",
   "systemVersion": "1.8.3",
   "url": "https://github.com/WallaceMcGregor/bob-translation-es",
