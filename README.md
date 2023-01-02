@@ -1,14 +1,11 @@
 # Traducción al español de Band of Blades
 
-Este módulo contiene la traducción actualizada del sistema procedente de la edición de [NoSoloRol](https://www.nosolorol.com/es/conbarba/1179/band-of-blades-papel).
+Este módulo contiene la traducción actualizada del sistema y los compendios procedente de la edición de [NoSoloRol](https://www.nosolorol.com/es/conbarba/1179/band-of-blades-papel).
 
 ## Instalación
 
 Instala el módulo **[Translation] Band of Blades Spanish** o añade el [manifest](https://raw.githubusercontent.com/WallaceMcGregor/bob-translation-es/main/module.json) en la sección de **Instalar módulo**.
 
-## Futuras implementaciones
-
-* Añadir los compendios.
 
 ## SPAM
 
