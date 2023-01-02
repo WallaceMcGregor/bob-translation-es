@@ -6,6 +6,7 @@ Este módulo contiene la traducción actualizada del sistema y los compendios pr
 
 Instala el módulo **[Translation] Band of Blades Spanish** o añade el [manifest](https://raw.githubusercontent.com/WallaceMcGregor/bob-translation-es/main/module.json) en la sección de **Instalar módulo**.
 
+Puedes utilizar el módulo **Compendium Folders** para organizar los compendios. En el archivo "compendiumfolder.txt" se encuentra la configuración que puedes copiar para añadirla en los ajustes del módulo e importarla.
 
 ## SPAM
 
