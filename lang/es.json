@@ -13,7 +13,7 @@
   "ITEM.TypePersonnel": "Personal",
   "ITEM.TypeMateriel": "Equipamiento",
   "ITEM.TypeAbility": "Habilidad",
-  "ITEM.TypeSpies": "Espías",
+  "ITEM.TypeSpies": "Espias",
   "ITEM.TypeNetwork": "Red",
   "ITEM.TypeHeritage": "Legado",
   "ITEM.TypeTrait": "Rasgo",
@@ -229,7 +229,7 @@
   "BITD.ResearchLabel": "Investigación",
   "BITD.ResearchDetail": "Tus espías infiltrados investigan una zona para encontrar las mejores misiones.<br /><br /><strong>Completa:</strong> Descubres todas las misiones especiales de una localización. Si el comandante gasta información para adquirir una de ellas, puedes elegir cuál. Cuando dejéis atrás esa localización, reinicia este reloj.",
 
-  "BITD.Network": "Red de espías",
+  "BITD.Network": "Red de espias",
   "BITD.NetworkShort": "Red",
   "BITD.NetworkLabel": "Red",
   "BITD.Requirements": "Prerrequisitos",
