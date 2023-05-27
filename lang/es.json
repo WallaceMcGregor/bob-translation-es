@@ -54,6 +54,8 @@
   "BITD.Wounds": "Heridas",
   "BITD.Type": "Tipo",
   "BITD.Threat": "Amenaza",
+  "BITD.Deceased": "Fallecido",
+  "BITD.DeceasedTip": "Gestiona si el personaje se muestra en la pestaña de Pelotones/Especialistas del Mariscal",
 
   "BITD.Resources": "Recursos",
   "BITD.Squads": "Pelotones",
@@ -64,12 +66,7 @@
   "BITD.Squad": "Pelotón",
   "BITD.Duties": "Funciones",
   "BITD.DutiesLabel": "Durante la partida, debes:",
-
-  "BITD.HeavyLabel": "misiones de ataque y reabastecimiento",
-  "BITD.MedicLabel": "misiones de ataque y religiosas",
-  "BITD.OfficerLabel": "misiones religiosas y de reabastecimiento",
-  "BITD.ScoutLabel": "misiones de reconocimiento y reabastecimiento",
-  "BITD.SniperLabel": "misiones de ataque y de reconocimiento",
+  "BITD.MissionTypes": "Tipos de misión recomendados para los especialistas en la hoja del Mariscal",  
 
   "BITD.Pressure": "Presión",
   "BITD.PressureLabel": "Mide cómo de rodeados estáis por los no muertos",
@@ -156,6 +153,8 @@
   "BITD.SiegeWeaponsLabel": "Armas de destrucción masiva",
   "BITD.SupplyCart": "Carros de suministros",
   "BITD.SupplyCartLabel": "Imprescindibles para la logística",
+  "BITD.OtherResources": "Otros recursos",
+  "BITD.OtherResourcesLabel": "Recursos únicos o especiales",
 
   "BITD.Annals": "Los Anales de la Legión",
   "BITD.AnnalsShort": "Anales",
@@ -394,14 +393,18 @@
   "BITD.Quality": "Calidad",
   "BITD.ClassExpClue1": "Cuando hagas una tirada de acción desesperada, anota 1 px en el atributo de esa acción.",
   "BITD.ClassExpClue2": "Si has sobrevivido a la misión.",
-  "BITD.ClassExpClue3": "Si has incluido tu legado o tus traumas (2 px si has incluido ambos).",
+  "BITD.ClassExpClue3": "Si utilizaste el rasgo de tu legado.",
+  "BITD.ClassExpClue4": "Si lidiaste con los problemas de tus traumas.",
+  "BITD.ClassExpClue5": "Anota 1 px por nivel de amenaza del oponente con mayor nivel de amenaza.",
+  "BITD.ClassExpClue6": "Los especialistas en misiones secundarias anotan 2 xp por sobrevivir.",
   "BITD.ClassExpClueDescription": "Al final de cada misión, anota 1 px (libreto o atributo)...",
+  "BITD.ClassSpecificExpClue": "Disparador de PX específico del libreto",
   "BITD.Abilities": "Habilidades",
   "BITD.Notes": "Notas",
   "BITD.AllItems": "Todos los elementos",
   "BITD.SpecialAbilities": "Habilidades Especiales",
-  "BITD.AddUpgrades": "Mejoras o equipo por defecto para añadir durante la creación del personaje",
-
+  "BITD.AddUpgrades": "Mejoras o equipo por defecto para añadir durante la creación del personaje (separado por comas, debe coincidir con el nombre del elemento)",
+  "BITD.AddUpgradesWarn": "A listed default upgrade for this class was not found, check that they exists and names match exactly.",
 
   "BITD.Roll": "Tirar",
   "BITD.RollFailure": "Fallo",
@@ -476,7 +479,7 @@
   "BITD.EffectGreat": "Excelente",
   "BITD.EffectExtreme": "Extremo",
 
-  "BITD.SpecSkill": "Special Skill",
+  "BITD.SpecSkill": "Acción de especialista",
   "BITD.SkillsInsight": "Perspicacia",
   "BITD.SkillsInsightShort": "Perspicacia",
   "BITD.SkillsInsightTip": "Utiliza Perspicacia para evitar o reducir consecuencias relacionadas con el engaño o la comprensión.",
@@ -528,6 +531,11 @@
   "BITD.SkillsScroungeTip": "Cuando Buscas, reutilizas lo que te rodea para encontrar refugio o conseguir objetos. Un uso te permite encontrar un refugio seguro para una noche o el equivalente a una carga de suministros para todos los integrantes del pelotón.",
   "BITD.SkillsWeave": "Tejer",
   "BITD.SkillsWeaveTip": "Cuando Tejes, invocas poderes arcanos para cambiar el mundo que te rodea. Un uso te permite identificar si un objeto es un artefacto o detectar la presencia divina.",
+  "BITD.SkillsCustom": "Personalizada",
+  "BITD.SkillsCustomTip": "Acción personalizada",
+  "BITD.CustomLabel": "Nombre de la nueva acción personalizada",
+  "BITD.CustomTip": "Descripción de la nueva acción personalizada",
+  "BITD.ChangeCustomAction": "Cambiar la acción de especialista personalizada",
 
   "BITD.PExperience": "PX de libreto",
   "BITD.CExperience": "Crew XP ",
@@ -558,6 +566,12 @@
 
   "BITD.Add": "Add",
   "BITD.Cancel": "Cancel",
+
+  "BITD.HeavyLabel": "misiones de ataque y reabastecimiento",
+  "BITD.MedicLabel": "misiones de ataque y religiosas",
+  "BITD.OfficerLabel": "misiones religiosas y de reabastecimiento",
+  "BITD.ScoutLabel": "misiones de reconocimiento y reabastecimiento",
+  "BITD.SniperLabel": "misiones de ataque y de reconocimiento",
 
   "BITD.ClockSettingDefaultTheme": "Tema por defecto del reloj:",
   "BITD.ClockSettingDefaultThemeHint": "Tema para los nuevos relojes",
