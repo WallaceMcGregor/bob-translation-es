@@ -1,7 +1,7 @@
 {
   "title": "[Translation] Band of Blades Spanish",
   "description": "Este módulo contiene la traducción actualizada del sistema de Band of Blades y sus compendios",
-  "version": "1.4",
+  "version": "1.4.1",
   "compatibility": {
     "minimum": "9",
     "verified": "11"
