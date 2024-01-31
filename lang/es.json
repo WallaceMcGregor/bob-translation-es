@@ -439,7 +439,7 @@
   "BITD.RollZeroEffect": "Efecto nulo",
   "BITD.RollZeroEffectDescription": "Consigues un mal resultado o efecto nulo.<br><br>Si es una tirada de implicación, os encontráis en una situación <strong>desesperada</strong>.<br>¡Buena suerte!<br><br>Si estáis rellenando relojes de facción o curación, tacha <strong>0</strong> sectores.",
 
-  "BITD.RollResist": "Resistance",
+  "BITD.RollResist": "Resistencia",
   "BITD.RollResistDescription": "<strong>Reduces</strong> o <strong>evitas</strong> los efectos de la consecuencia (el DJ decide).<br><br>Sufres 6 puntos de <strong>estrés</strong> menos el resultado más alto (o el más bajo en caso de tirar 0d) de la tirada, que serán <strong>",
   "BITD.RollCritResist": "Resistencia crítica",
   "BITD.RollCritResistDescription": "<strong>Reduces</strong> o <strong>evitas</strong> los efectos de la consecuencia (el DJ decide).<br><br><strong>Reduces 1 punto de estrés.</strong>",
