@@ -1,0 +1,165 @@
+{
+  "label": "Tablas de Misiones",
+  "entries": {
+    "Favor": {
+      "name": "Favor",
+      "results": {
+        "1-1": "Sagrado",
+        "2-2": "Místico",
+        "3-3": "Gloria",
+        "4-4": "Conocimiento",
+        "5-5": "Misericordia",
+        "6-6": "Naturaleza"
+      }
+    },
+    "Mission Count": {
+      "name": "Número de misiones",
+      "results": {
+        "1-2": "3 misiones",
+        "3-3": "3 misiones (una +1 especialista)",
+        "4-4": "2 misiones",
+        "5-5": "3 misiones (1 con favor)",
+        "6-6": "3 misiones (1 especial)"
+      }
+    },
+    "Mission Type": {
+      "name": "Tipo de misión",
+      "description": "",
+      "results": {
+        "1-1": "Ataque",
+        "2-2": "Reconocimiento",
+        "3-3": "Religiosa",
+        "4-4": "Reabastecimiento",
+        "5-5": "El comandante elige",
+        "6-6": "El DJ elige"
+      }
+    },
+    "Penalty Assault": {
+      "name": "Penalización Ataque",
+      "results": {
+        "1-1": "+1 presión, +1 tiempo",
+        "2-2": "+1 tiempo",
+        "3-3": "-1 suministros",
+        "4-6": "+1 presión"
+      }
+    },
+    "Penalty Recon": {
+      "name": "Penalización Reconocimiento",
+      "results": {
+        "1-1": "+1 tiempo",
+        "2-2": "2 muertes",
+        "3-3": "1 muerte",
+        "4-5": "+1 presión",
+        "6-6": "Ninguna"
+      }
+    },
+    "Penalty Religious": {
+      "name": "Penalización Religiosa",
+      "results": {
+        "1-1": "-1 moral, +1 presión",
+        "2-3": "+1 presión",
+        "4-5": "-1 moral",
+        "6-6": "Ninguna"
+      }
+    },
+    "Penalty Supply": {
+      "name": "Penalización Reabastecimiento",
+      "results": {
+        "1-1": "-1 moral, -1 suministros",
+        "2-2": "-1 suministros",
+        "3-4": "-1 moral",
+        "5-6": "Ninguna"
+      }
+    },
+    "Reward Assault": {
+      "name": "Recompensa Ataque",
+      "results": {
+        "1-1": "+2 moral",
+        "2-2": "+3 moral",
+        "3-3": "+4 moral",
+        "4-4": "+2 moral, +1 suministros",
+        "5-5": "+2 moral, +1 información",
+        "6-6": "+2 moral, -1 tiempo"
+      }
+    },
+    "Reward Recon": {
+      "name": "Recompensa Reconocimiento",
+      "results": {
+        "1-2": "+2 información",
+        "3-3": "+1 información, Recurso",
+        "4-4": "+1 información, Recurso/Tropas",
+        "5-5": "+1 información, -1 tiempo",
+        "6-6": "+3 información"
+      }
+    },
+    "Reward Religious": {
+      "name": "Recompensa Religiosa",
+      "results": {
+        "1-1": "-1 tiempo, +2 px",
+        "2-2": "+2 moral, +10 puntos",
+        "3-3": "+1 información, +2 moral",
+        "4-4": "Recurso de buena calidad",
+        "5-5": "Recurso excepcional",
+        "6-6": "Especialista"
+      }
+    },
+    "Reward Supply": {
+      "name": "Recompensa Reabastecimiento",
+      "results": {
+        "1-2": "Recurso, +1 suministros",
+        "3-3": "+2 suministros",
+        "4-4": "Recurso, +2 suministros",
+        "5-6": "+3 suministros"
+      }
+    },
+    "Specialist": {
+      "name": "Especialistas",
+      "results": {
+        "1-1": "Tanque",
+        "2-2": "Médico",
+        "3-3": "Explorador",
+        "4-4": "Francotirador",
+        "5-5": "Oficial",
+        "6-6": "Alquimista/Misericordia"
+      }
+    },
+    "Type Assault": {
+      "name": "Tipo Ataque",
+      "results": {
+        "1-1": "Gente",
+        "2-2": "Naturaleza",
+        "3-4": "No muertos",
+        "5-6": "No muerto poderoso"
+      }
+    },
+    "Type Recon": {
+      "name": "Tipo Reconocimiento",
+      "results": {
+        "1-1": "Reconocimiento de la zona",
+        "2-2": "Reconocimiento del camino",
+        "3-3": "Reconocimiento de las tropas",
+        "4-4": "Infiltración",
+        "5-5": "Exfiltración",
+        "6-6": "Una de las anteriores + peligro"
+      }
+    },
+    "Type Religious": {
+      "name": "Tipo Religiosa",
+      "results": {
+        "1-1": "Escolta",
+        "2-2": "Purificación",
+        "3-3": "Defensa",
+        "4-4": "Exhumación",
+        "5-6": "Una de las anteriores + favor"
+      }
+    },
+    "Type Supply": {
+      "name": "Tipo Reabastecimiento",
+      "results": {
+        "1-2": "Buscar o intercambiar",
+        "3-4": "Recuperar suministros",
+        "5-6": "Trabajo mercenario"
+      }
+    }
+  }
+}

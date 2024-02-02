@@ -1,0 +1,24 @@
+{
+  "label": "Legados",
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": {
+    "Panyar": {
+      "name": "Panyar",
+      "description": "Los panyar proceden de la espesura de un bosque tocado por un antiguo dios. Cualquier persona que pase el tiempo suficiente en el bosque recibe un rasgo animal, como ojos de gato o colmillos visibles. Los panyar deben ganarse la primera parte de su nombre y su cultura se centra en grandes gestas."
+    },
+    "Orite": {
+      "name": "Orite",
+      "description": "Los orites son cosmopolitas e influyentes. Su país es famoso por su tecnología. Se caracterizan casi tanto por sus avances en relojería y alquimia como por su obsesión por la nobleza y el linaje."
+    },
+    "Zemyati": {
+      "name": "Zemyati",
+      "description": "Los zemyati son clanes de moradores de la montaña y su cultura es un complejo conjunto de juramentos entre los diferentes clanes, entre un clan y sus miembros y entre cada zemyati y el mundo."
+    },
+    "Bartan": {
+      "name": "Bartan",
+      "description": "Los bartanes son un pueblo muy unido y devoto. Muchos llevan joyas fabricadas con recuerdos que han recibido de sus familias o de personas con las que han establecido una estrecha amistad. Su cultura es agraria y están gobernados por un consejo."
+    }
+  }
+}

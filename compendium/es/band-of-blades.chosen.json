@@ -1,0 +1,199 @@
+{
+    "label": "Elegidos/Quebrados",
+    "mapping": {
+        "abilities": "system.def_abilities",
+        "description": "system.description",
+        "effects": {
+            "path": "effects",
+            "converter": "effectConverter"
+        }
+    },
+    "entries": {
+        "Horned One": {
+            "name": "La Astada",
+            "abilities": "",
+            "description": "Cuando Nyx, la diosa panyar de la luna, fue Quebrada, la luna se rompió en el cielo. Mientras otros sentían un gran temor, la joven conocida como Luz Plateada Danzante solo sentía rabia ante la pérdida de su diosa. Luz encontró un antiguo templo y el Astado le ofreció la Elección. Desde entonces su rabia alimenta la del Astado y juntos buscan venganza por la pérdida que sufrieron. Las habilidades de cambiaformas le sirven para espiar las tácticas del enemigo antes de atacar y guía empleando astucia antes que fuerza.",
+            "effects": {
+                "VXm9P6XMq0KaYDpb": {
+                    "changes": [
+                        {
+                            "key": "data.type",
+                            "mode": 5,
+                            "value": "Chosen"
+                        },
+                        {
+                            "key": "data.favor",
+                            "mode": 5,
+                            "value": "Naturaleza,Místico,Sagrado"
+                        },
+                        {
+                            "key": "data.features",
+                            "mode": 5,
+                            "value": "Aterradora,Atractiva,Bestial,Monstruosa,Radiante,Salvaje,Siniestra,Trascendente"
+                        },
+                        {
+                            "key": "name",
+                            "mode": 5,
+                            "value": "La Astada"
+                        },
+                        {
+                            "key": "data.alias",
+                            "mode": 5,
+                            "value": "Elegida del Astado"
+                        }
+                    ]
+                }
+            }
+        },
+        "Bonerender": {
+            "name": "Descoyuntador",
+            "abilities": "Juramentados",
+            "description": "Antiguamente, el dios viviente de los zemyati creó a nueve Elegidos que no se consumirían hasta acabar su tarea. Las leyendas sobre figuras que obran milagros o salvan a quienes se pierden en bosques y montañas son muy populares en Zemya. Vlaisim el Radiante surgió de las montañas hace tres años afirmando que su misión era poner fin a la guerra. Cuando el Rey Quemado lo Quebró, quemó su rostro y le ordenó no ocultarlo jamás. Hoy, Descoyuntador se protege con una armadura negra y está lleno de un odio que contagia a sus tropas.",
+            "effects": {
+                "VXm9P6XMq0KaYDpb": {
+                    "changes": [
+                        {
+                            "key": "data.type",
+                            "mode": 5,
+                            "value": "Broken"
+                        },
+                        {
+                            "key": "name",
+                            "mode": 5,
+                            "value": "Descoyuntador"
+                        },
+                        {
+                            "key": "data.alias",
+                            "mode": 5,
+                            "value": "Descoyuntador de Huesos o el Caballero Hueco"
+                        }
+                    ]
+                }
+            }
+        },
+        "Stormbreaker": {
+            "name": "Destructora",
+            "abilities": "Aquelarre",
+            "description": "En el pasado, Destructora se llamaba Minika Arya y era una sacerdotisa de la diosa bartana Vazara. A diferencia de muchos de sus compañeros Elegidos, Minika Arya no era famosa ni de alta alcurnia. Como huérfana adoptada por una sacerdotisa, dedicó su vida a viajar por la costa bartana tal y como predicaba su orden. Su cometido era orar para suavizar las peores tormentas, proteger los barcos y vivir una vida tranquila de meditación en las islas costeras. Minika Arya destacó como una mística extremadamente poderosa entre los Elegidos y cabalgó en primera línea durante el ataque al Rey Quemado. El lugar de su Quiebra permanece aún hoy abrasado por los rayos que siguieron golpeando el mismo lugar durante una semana.",
+            "effects": {
+                "VXm9P6XMq0KaYDpb": {
+                    "changes": [
+                        {
+                            "key": "data.type",
+                            "mode": 5,
+                            "value": "Broken"
+                        },
+                        {
+                            "key": "name",
+                            "mode": 5,
+                            "value": "Destructora"
+                        },
+                        {
+                            "key": "data.alias",
+                            "mode": 5,
+                            "value": "Destructora de Tormentas o Portadora del Trueno"
+                        }
+                    ]
+                }
+            }
+        },
+        "Zora": {
+            "name": "Zora",
+            "abilities": "",
+            "description": "Antaño, el dios viviente de los zemyati creó a nueve Elegidos que, a diferencia de los Elegidos de otros dioses, nunca se han agotado ni han languidecido. Estos individuos persisten hasta completar su cometido, aunque se les puede asesinar. De entre ellos, Zora ha superado todas las expectativas. Fue ella quien liberó Dar y quien puso fin a la Guerra de los Dioses usando un terrorífico hechizo para atacar al dios presente en el interior de un Elegido antes de marcharse del campo de batalla e internarse en el campo de los rumores y las leyendas. Y en el momento en que la Legión estaba a punto de ser aplastada en la última ofensiva, Zora volvió para salvarlos.",
+            "effects": {
+                "VXm9P6XMq0KaYDpb": {
+                    "changes": [
+                        {
+                            "key": "data.type",
+                            "mode": 5,
+                            "value": "Chosen"
+                        },
+                        {
+                            "key": "data.favor",
+                            "mode": 5,
+                            "value": "Gloria,Místico,Sagrado"
+                        },
+                        {
+                            "key": "data.features",
+                            "mode": 5,
+                            "value": "Atractiva,Aterradora,Llameante,Luminosa,Monstruosa,Radiante,Siniestra,Trascendente"
+                        },
+                        {
+                            "key": "name",
+                            "mode": 5,
+                            "value": "Zora"
+                        },
+                        {
+                            "key": "data.alias",
+                            "mode": 5,
+                            "value": "Elegida del Dios Viviente"
+                        }
+                    ]
+                }
+            }
+        },
+        "Shreya": {
+            "name": "Shreya",
+            "abilities": "",
+            "description": "La mente táctica de Shreya y su conocimiento estratégico casi sobrenatural son las razones por las que los reinos orientales decidieron avanzar en la última ofensiva. Sin embargo, la batalla fue una gran derrota para la humanidad y nadie sabe si Shreya se ha dado cuenta del precio que han pagado. Su actitud puede ser inescrutable e intimidante. Se dice que hace guardia a altas horas de la noche mientras mantiene la mirada fija en la oscuridad para detectar señales de peligro, una práctica tan reconfortante como perturbadora.",
+            "effects": {
+                "VXm9P6XMq0KaYDpb": {
+                    "changes": [
+                        {
+                            "key": "data.type",
+                            "mode": 5,
+                            "value": "Chosen"
+                        },
+                        {
+                            "key": "data.favor",
+                            "mode": 5,
+                            "value": "Misericordia,Místico,Sagrado"
+                        },
+                        {
+                            "key": "data.features",
+                            "mode": 5,
+                            "value": "Aterradora,Atractiva,Feroz,Monstruosa,Radiante,Serena,Siniestra,Trascendente"
+                        },
+                        {
+                            "key": "name",
+                            "mode": 5,
+                            "value": "Shreya"
+                        },
+                        {
+                            "key": "data.alias",
+                            "mode": 5,
+                            "value": "Elegida de Asrika"
+                        }
+                    ]
+                }
+            }
+        },
+        "Flesh Blighter": {
+            "name": "Lacra de Carne",
+            "abilities": "Ciencia abominable",
+            "description": "En el pasado, Lacra se llamaba Elenessa y era una ingeniera sacerdotisa de la tríada de dioses artesanos orites compuesta por el Constructor, el Creador y el Artesano. Cuando la famosa guerrera bartana Shreya ganó su favor durante un torneo de caballeros, el romance entre ambas se convirtió en el tema principal de poemas y canciones. Pero el Rey Quemado se alzó en el oeste, comenzó su larga marcha y Elenessa fue Elegida por el Artesano, cuyos seguidores practican el arte de la alquimia. Una vez Quebrada, el arte en sí mismo quedó mancillado. Actualmente sus practicantes se corrompen con el tiempo y se convierten en monstruos.",
+            "effects": {
+                "VXm9P6XMq0KaYDpb": {
+                    "changes": [
+                        {
+                            "key": "data.type",
+                            "mode": 5,
+                            "value": "Broken"
+                        },
+                        {
+                            "key": "name",
+                            "mode": 5,
+                            "value": "Lacra de Carne"
+                        },
+                        {
+                            "key": "data.alias",
+                            "mode": 5,
+                            "value": "La Fétida o Corruptora de Carne"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

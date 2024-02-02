@@ -6,148 +6,14 @@
     "minimum": "9",
     "verified": "11"
   },
+  "esmodules": [
+    "register.js"
+  ],
   "languages": [
     {
       "lang": "es",
       "name": "Español",
       "path": "lang/es.json",
-      "flags": {}
-    }
-  ],
-  "packs": [
-    {
-      "name": "abilities",
-      "label": "Habilidades",
-      "path": "packs/abilities.db",
-      "type": "Item",
-      "private": false,
-      "system": "band-of-blades",
-      "flags": {}
-    },
-    {
-      "name": "chosen",
-      "label": "Elegidos/Quebrados",
-      "path": "packs/chosen.db",
-      "type": "Item",
-      "private": false,
-      "system": "band-of-blades",
-      "flags": {}
-    },
-    {
-      "name": "chosenabilities",
-      "label": "Habilidades de Elegido/Quebrado",
-      "path": "packs/chosenabilities.db",
-      "type": "Item",
-      "private": false,
-      "system": "band-of-blades",
-      "flags": {}
-    },
-    {
-      "name": "classes",
-      "label": "Libretos",
-      "path": "packs/classes.db",
-      "type": "Item",
-      "private": false,
-      "system": "band-of-blades",
-      "flags": {}
-    },
-    {
-      "name": "heritages",
-      "label": "Legados",
-      "path": "packs/heritages.db",
-      "type": "Item",
-      "private": false,
-      "system": "band-of-blades",
-      "flags": {}
-    },
-    {
-      "name": "items",
-      "label": "Equipo",
-      "path": "packs/items.db",
-      "type": "Item",
-      "private": false,
-      "system": "band-of-blades",
-      "flags": {}
-    },
-    {
-      "name": "materiel",
-      "label": "Equipamiento",
-      "path": "packs/materiel.db",
-      "type": "Item",
-      "private": false,
-      "system": "band-of-blades",
-      "flags": {}
-    },
-    {
-      "name": "minions",
-      "label": "Ejércitos de no muertos",
-      "path": "packs/minions.db",
-      "type": "Actor",
-      "private": false,
-      "system": "band-of-blades",
-      "flags": {}
-    },
-    {
-      "name": "missions",
-      "label": "Tablas de Misiones",
-      "path": "packs/missions.db",
-      "type": "RollTable",
-      "private": false,
-      "system": "band-of-blades",
-      "flags": {}
-    },
-    {
-      "name": "network",
-      "label": "Red de espías",
-      "path": "packs/network.db",
-      "type": "Item",
-      "private": false,
-      "system": "band-of-blades",
-      "flags": {}
-    },
-    {
-      "name": "personnel",
-      "label": "Personal",
-      "path": "packs/personnel.db",
-      "type": "Item",
-      "private": false,
-      "system": "band-of-blades",
-      "flags": {}
-    },
-    {
-      "name": "roles",
-      "label": "Roles",
-      "path": "packs/roles.db",
-      "type": "Item",
-      "private": false,
-      "system": "band-of-blades",
-      "flags": {}
-    },
-    {
-      "name": "spies",
-      "label": "Espías",
-      "path": "packs/spies.db",
-      "type": "Item",
-      "private": false,
-      "system": "band-of-blades",
-      "flags": {}
-    },
-    {
-      "name": "squads",
-      "label": "Pelotones",
-      "path": "packs/squads.db",
-      "type": "Item",
-      "private": false,
-      "system": "band-of-blades",
-      "flags": {}
-    },
-    {
-      "name": "traits",
-      "label": "Rasgos",
-      "path": "packs/traits.db",
-      "type": "Item",
-      "private": false,
-      "system": "band-of-blades",
       "flags": {}
     }
   ],
@@ -167,6 +33,13 @@
       {
         "id": "band-of-blades",
         "type": "system",
+        "compatibility": {}
+      }
+    ],
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module",
         "compatibility": {}
       }
     ]

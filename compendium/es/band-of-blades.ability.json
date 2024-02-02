@@ -1,0 +1,304 @@
+{
+  "label": "Habilidades especiales",
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": {
+    "(G) Elite Aim": {
+      "name": "(G) Élite Apuntar",
+      "description": "Dominas dos acciones (nivel 4 disponible). Cuando eliges una habilidad de élite, puedes escoger una habilidad de élite adicional.  Solo puedes añadir un par de habilidades de élite."
+    },
+    "(G) Elite Anchor": {
+      "name": "(G) Élite Reforzar",
+      "description": "Dominas dos acciones (nivel 4 disponible). Cuando eliges una habilidad de élite, puedes escoger una habilidad de élite adicional.  Solo puedes añadir un par de habilidades de élite."
+    },
+    "(G) Elite Channels": {
+      "name": "(G) Élite Redistribuir",
+      "description": "Dominas dos acciones (nivel 4 disponible). Cuando eliges una habilidad de élite, puedes escoger una habilidad de élite adicional.  Solo puedes añadir un par de habilidades de élite."
+    },
+    "(G) Elite Consort": {
+      "name": "(G) Élite Socializar",
+      "description": "Dominas dos acciones (nivel 4 disponible). Cuando eliges una habilidad de élite, puedes escoger una habilidad de élite adicional.  Solo puedes añadir un par de habilidades de élite."
+    },
+    "(G) Elite Discipline": {
+      "name": "(G) Élite Disciplinar",
+      "description": "Dominas dos acciones (nivel 4 disponible). Cuando eliges una habilidad de élite, puedes escoger una habilidad de élite adicional.  Solo puedes añadir un par de habilidades de élite."
+    },
+    "(G) Elite Doctor": {
+      "name": "(G) Élite Curar",
+      "description": "Dominas dos acciones (nivel 4 disponible). Cuando eliges una habilidad de élite, puedes escoger una habilidad de élite adicional.  Solo puedes añadir un par de habilidades de élite."
+    },
+    "(G) Elite Grit": {
+      "name": "(G) Élite Aguantar",
+      "description": "Dominas dos acciones (nivel 4 disponible). Cuando eliges una habilidad de élite, puedes escoger una habilidad de élite adicional.  Solo puedes añadir un par de habilidades de élite."
+    },
+    "(G) Elite Maneuver": {
+      "name": "(G) Élite Moverse",
+      "description": "Dominas dos acciones (nivel 4 disponible). Cuando eliges una habilidad de élite, puedes escoger una habilidad de élite adicional.  Solo puedes añadir un par de habilidades de élite."
+    },
+    "(G) Elite Marshal": {
+      "name": "(G) Élite Liderar",
+      "description": "Dominas dos acciones (nivel 4 disponible). Cuando eliges una habilidad de élite, puedes escoger una habilidad de élite adicional.  Solo puedes añadir un par de habilidades de élite."
+    },
+    "(G) Elite Research": {
+      "name": "(G) Élite Investigar",
+      "description": "Dominas dos acciones (nivel 4 disponible). Cuando eliges una habilidad de élite, puedes escoger una habilidad de élite adicional.  Solo puedes añadir un par de habilidades de élite."
+    },
+    "(G) Elite Rig": {
+      "name": "(G) Élite Manipular",
+      "description": "Dominas dos acciones (nivel 4 disponible). Cuando eliges una habilidad de élite, puedes escoger una habilidad de élite adicional.  Solo puedes añadir un par de habilidades de élite."
+    },
+    "(G) Elite Scout": {
+      "name": "(G) Élite Infiltrarse",
+      "description": "Dominas dos acciones (nivel 4 disponible). Cuando eliges una habilidad de élite, puedes escoger una habilidad de élite adicional.  Solo puedes añadir un par de habilidades de élite."
+    },
+    "(G) Elite Scrounge": {
+      "name": "(G) Élite Buscar",
+      "description": "Dominas dos acciones (nivel 4 disponible). Cuando eliges una habilidad de élite, puedes escoger una habilidad de élite adicional.  Solo puedes añadir un par de habilidades de élite."
+    },
+    "(G) Elite Shoot": {
+      "name": "(G) Élite Disparar",
+      "description": "Dominas dos acciones (nivel 4 disponible). Cuando eliges una habilidad de élite, puedes escoger una habilidad de élite adicional.  Solo puedes añadir un par de habilidades de élite."
+    },
+    "(G) Elite Skirmish": {
+      "name": "(G) Élite Luchar",
+      "description": "Dominas dos acciones (nivel 4 disponible). Cuando eliges una habilidad de élite, puedes escoger una habilidad de élite adicional.  Solo puedes añadir un par de habilidades de élite."
+    },
+    "(G) Elite Sway": {
+      "name": "(G) Élite Convencer",
+      "description": "Dominas dos acciones (nivel 4 disponible). Cuando eliges una habilidad de élite, puedes escoger una habilidad de élite adicional.  Solo puedes añadir un par de habilidades de élite."
+    },
+    "(G) Elite Weave": {
+      "name": "(G) Élite Tejer",
+      "description": "Dominas dos acciones (nivel 4 disponible). Cuando eliges una habilidad de élite, puedes escoger una habilidad de élite adicional.  Solo puedes añadir un par de habilidades de élite."
+    },
+    "(G) Elite Wreck": {
+      "name": "(G) Élite Destruir",
+      "description": "Dominas dos acciones (nivel 4 disponible). Cuando eliges una habilidad de élite, puedes escoger una habilidad de élite adicional.  Solo puedes añadir un par de habilidades de élite."
+    },
+    "(G) Hardened 1": {
+      "name": "(G) Curtido 1",
+      "description": "Añade dos casillas de estrés adicionales."
+    },
+    "(G) Hardened 2": {
+      "name": "(G) Curtido 2",
+      "description": "Añade dos casillas de estrés adicionales."
+    },
+    "(G) Survivor 1": {
+      "name": "(G) Superviviente 1",
+      "description": "Resistes +1 trauma antes de morir."
+    },
+    "(G) Survivor 2": {
+      "name": "(G) Superviviente 2",
+      "description": "Resistes +1 trauma antes de morir."
+    },
+    "(G) Veteran 1": {
+      "name": "(G) Veterano 1",
+      "description": "Recibes una habilidad especial de otro libreto. La manera más fácil es arrastrándola desde un compendio."
+    },
+    "(G) Veteran 2": {
+      "name": "(G) Veterano 2",
+      "description": "Recibes una habilidad especial de otro libreto. La manera más fácil es arrastrándola desde un compendio."
+    },
+    "(H) Against the Darkness": {
+      "name": "(T) Contra la oscuridad",
+      "description": "Tú y todos tus compañeros en línea de visión recibís +1d para resistir al miedo y la corrupción."
+    },
+    "(H) Backup": {
+      "name": "(T) Refuerzos",
+      "description": "Resistes con +1d cuando protejas a un compañero. Si asistes a alguien, esforzarse solo le cuesta 1 punto de estrés."
+    },
+    "(H) Bulwark": {
+      "name": "(T) Bastión",
+      "description": "Utiliza usos de Reforzar como armadura especial para evitar consecuencias al pelotón que estás defendiendo."
+    },
+    "(H) Tenacious": {
+      "name": "(T) Tenaz",
+      "description": "Las penalizaciones por daño se reducen en un nivel (aunque el nivel 4 sigue siendo letal)."
+    },
+    "(H) Vigorous": {
+      "name": "(T) Vigoroso",
+      "description": "Cuando taches casillas de herida durante la acción de Descanso y Recuperación, tacha una casilla adicional. Si recibes daño, borra 1 punto de estrés."
+    },
+    "(H) War Machine": {
+      "name": "(T) Mçaquina de guerra",
+      "description": "Al esforzarte, elige:\nLlevar a cabo una hazaña de fuerza física que roce lo sobrehumano\nO\nReducir en uno el nivel de amenaza de todos los enemigos."
+    },
+    "(H) Weaponmaster": {
+      "name": "(T) Maestro de armas",
+      "description": "Tu reputación de maestro de armas te precede incluso entre personas ajenas a la Legión. Al esforzarte, también ganas eficacia en combate cuerpo a cuerpo."
+    },
+    "(M) Attache": {
+      "name": "(M) Agregado",
+      "description": "Puedes ir a cualquier misión, sin importar el límite de especialistas. Recibes gratis esta habilidad cuando asciendas o crees un médico."
+    },
+    "(M) Chemist": {
+      "name": "(M) Químico",
+      "description": "Te has formado en medicina alquímica orite. Puedes equipar una bandolera alquímica en cada misión."
+    },
+    "(M) Dr. Feelgood": {
+      "name": "(M) El buen doctor",
+      "description": "Gasta 1 uso de tus bálsamos para que una persona sea eficaz en una acción física."
+    },
+    "(M) Field Dressing": {
+      "name": "(M) Vendaje de emergencia",
+      "description": "Al final de la misión, gasta los usos de Curar restantes para tachar una casilla del nivel 2 o 3 de daño de un legionario, una vez por persona."
+    },
+    "(M) First Aid": {
+      "name": "(M) Primeros auxilios",
+      "description": "Gasta 1 uso de tus bálsamos para eliminar un daño de nivel 1 a cualquier persona que te acompañe en tu misión."
+    },
+    "(M) Moral Support": {
+      "name": "(M) Apoyo moral",
+      "description": "Sabes cómo subir la moral a las tropas. Una vez por misión, si cuentas una historia divertida, personal o cargada de significado cuando el equipo esté descansando, quienes la escuchen eliminan 1 punto de estrés."
+    },
+    "(M) Not Today": {
+      "name": "(M) Hoy no",
+      "description": "Gasta un uso de Curar en un legionario que haya recibido daño de nivel 4 para reducirlo a nivel 3, pero hazlo rápido o morirá."
+    },
+    "(O) Lead from the Front": {
+      "name": "(O) Liderar desde el frente",
+      "description": "Cuando dirijas una acción grupal, mejora la escala aumentándola o reduciéndola en un nivel. Por ejemplo, un grupo pequeño cuenta como grupo mediano o como individuo. Si lideras una acción grupal en combate, puedes contar los 6 de diferentes tiradas como crítico."
+    },
+    "(O) Logistical Support": {
+      "name": "(O) Apoyo logístico",
+      "description": "Puedes gastar usos de Redistribuir para asistir a un compañero. Cuando lo hagas, el compañero recibe +1d adicional. Narra cómo tu preparación o suministros le ayudan contra la amenaza u obstáculo."
+    },
+    "(O) Mission First": {
+      "name": "(O) La misión es lo primero",
+      "description": "Añade al desencadenante de experiencia de \"final de misión\" lo siguiente: Si alguien ha muerto bajo tu mando."
+    },
+    "(O) Obedience": {
+      "name": "(O) Obediencia",
+      "description": "Un compañero PNJ se sacrifica por orden tuya. Al morir, absorbe todo el daño de un ataque que fuera dirigido a ti o a otro especialista. Recuerda que la Legión sufre -1 de moral cada vez que esto ocurre."
+    },
+    "(O) Officer School": {
+      "name": "(O) Escuela de oficiales",
+      "description": "Has recibido una buena educación y estás versado en conocimientos esotéricos arcanos. Recibes +1d cuando buscas información Investigando y cuando resistes con Perspicacia."
+    },
+    "(O) Strategist": {
+      "name": "(O) Estratega",
+      "description": "Recibes +1d en una tirada de Convencer cuando adquieras activos para una misión con usos de Redistribuir. Recibes también +1d para la tirada de implicación en una misión."
+    },
+    "(O) Tactician": {
+      "name": "(O) Táctico",
+      "description": "Anticipas problemas que la mayoría no es capaz de prever. Cuando lideres una acción grupal, sufres como máximo 1 punto de estrés."
+    },
+    "(R) Devil's Own Luck": {
+      "name": "(N) La suerte del principiante",
+      "description": "Recibes +1d en todas tus tiradas de resistencia. No puedes elegir esta habilidad como mejora de veterano."
+    },
+    "(R) Every Inch A...": {
+      "name": "(N) De los pies a la cabeza",
+      "description": "Comienzas con todos los rasgos de tu legado. Si escoges esta habilidad como mejora de veterano, debe ser la primera habilidad que selecciones durante la creación del personaje."
+    },
+    "(R) Gotta Make It Out Alive": {
+      "name": "(N) Tengo que sobrevivir",
+      "description": "Tienes la capacidad de recibir 1 trauma adicional antes de morir. Cuando asciendas, sustituye esta habilidad por un nivel de Superviviente. No puedes elegir esta habilidad como mejora de veterano."
+    },
+    "(R) Hard Knocks": {
+      "name": "(N) Aprender de los errores",
+      "description": "Anota 2 px en cualquier categoría al final de cada misión en la que hayas recibido daño de nivel 2 o superior. No puedes elegir esta habilidad como mejora de veterano."
+    },
+    "(R) Home Cooking": {
+      "name": "(N) Comida casera",
+      "description": "Si una misión dura varios días, usa tus víveres y cuenta a los demás lo que vas a cocinar. Todos los miembros del pelotón que compartan la comida eliminan 1 punto de estrés. No puedes elegir esta habilidad como mejora de veterano."
+    },
+    "(R) Jack of All Trades": {
+      "name": "(N) Comodín",
+      "description": "Aumenta dos habilidades de nivel 0 a nivel 1. No puedes elegir esta habilidad como mejora de veterano."
+    },
+    "(R) Just a Kid": {
+      "name": "(N) Solo un chaval",
+      "description": "Si alguien recibe daño por protegerte, esa persona anota px. Cuando asciendas, elige una segunda habilidad especial de tu nuevo libreto para sustituir a esta. No puedes elegir esta habilidad como mejora de veterano."
+    },
+    "(R) Not a Rookie Anymore": {
+      "name": "(N) Ya no soy un novato",
+      "description": "¡Has recibido un ascenso! Te conviertes en soldado. Obtienes 1 habilidad especial y 1 nivel de Aguantar. Esta debe ser la primera mejora en tu libreto. No puedes elegir esta habilidad como mejora de veterano o habilidad inicial."
+    },
+    "(Sc) Daredevil": {
+      "name": "(E) Temerario",
+      "description": "Obtienes +1d en tus tiradas desesperadas."
+    },
+    "(Sc) Ghost": {
+      "name": "(E) Fantasma",
+      "description": "Gasta usos de Buscar como armadura especial contra trampas o para evitar ser detectado."
+    },
+    "(Sc) Infiltrator": {
+      "name": "(E) Infiltrado",
+      "description": "Cuando observes a escondidas para buscar información o intentes evitar trampas y medidas de seguridad, ganas eficacia."
+    },
+    "(Sc) Like the Wind": {
+      "name": "(E) Como el viento",
+      "description": "Cuando surja la pregunta de quién actúa primero la respuesta es sencilla: tú. Recibes también +1d cuando resistas ataques con Destreza."
+    },
+    "(Sc) Panther-Like Grace": {
+      "name": "(E) Gracia felina",
+      "description": "Si eres rápido y no llevas armadura, cualquier daño que recibas comienza 1 nivel más bajo."
+    },
+    "(Sc) Ready For Anything": {
+      "name": "(E) Preparado para todo",
+      "description": "Si te emboscan, tus flashbacks cuestan 0 puntos de estrés y ganas eficacia para todas tus acciones durante dichos flashbacks. Recibes también 1 nivel menos de daño en misiones secundarias."
+    },
+    "(Sc) Sixth Sense": {
+      "name": "(E) Sexto sentido",
+      "description": "Sabes dónde se encuentran los no muertos a tu alrededor. Siempre conoces cuál es el mayor nivel de amenaza de los no muertos en la zona. Puedes buscar información sobre ellos usando Determinación."
+    },
+    "(Sn) Akimbo": {
+      "name": "(F) Ambidiestro",
+      "description": "Ganas eficacia cuando luches con dos pistolas a corta distancia."
+    },
+    "(Sn) Ambush": {
+      "name": "(F) Emboscada",
+      "description": "Recibes +1d cuando ataques por sorpresa o hagas caer a alguien en una trampa."
+    },
+    "(Sn) Cover Fire": {
+      "name": "(F) Fuego de cobertura",
+      "description": "Cuando hagas una tirada de preparativos con Disparar o uses fuego de cobertura, el jugador objetivo será eficaz durante su próxima acción."
+    },
+    "(Sn) Crimson Shot": {
+      "name": "(F) Disparo carmesí",
+      "description": "Has recibido autorización para llevar contigo un proyectil de Buscador Carmesí a las misiones. Dispararlo se considera un ataque de nivel 4 de amenaza. Cuando lo uses, anota un trauma."
+    },
+    "(Sn) Notches": {
+      "name": "(F) Muescas",
+      "description": "Si asestas el golpe mortal a un oponente de amenaza 2 o superior, anota 1 px en cualquier categoría."
+    },
+    "(Sn) One Eye": {
+      "name": "(F) Un ojo",
+      "description": "Has reemplazado uno de tus ojos por una creación alquímica. Ahora puedes ver objetivos invisibles e identificar fuerzas sobrenaturales."
+    },
+    "(Sn) Sharpshooter": {
+      "name": "(F) Disparo preciso",
+      "description": "Esfuérzate para elegir entre una de las siguientes opciones:\nEfectuar un ataque a una distancia extrema que supere el alcance normal del arma\nO\nDisparar una ráfaga rápida contra el enemigo para evitar que se mueva."
+    },
+    "(So) Cavalry": {
+      "name": "(S) Caballería",
+      "description": "Si al intendente le quedan usos de caballos disponibles, los miembros de tu pelotón comienzan las misiones a caballo. Recibes +1d a tus tiradas de Moverte mientras estés montado."
+    },
+    "(So) Eat Iron, Shit Nails": {
+      "name": "(S) Come hierro, caga clavos",
+      "description": "Ignora todas las penalizaciones de daño cuando te esfuerces. Recibe también +1d para resistir la consecuencia de cualquier tirada en la que te hayas esforzado."
+    },
+    "(So) Grenadier": {
+      "name": "(S) Granadero",
+      "description": "Como has recibido entrenamiento con explosivos, siempre puedes llevar una granada (1 carga) o explosivos (2 cargas) como parte de tu carga ligera."
+    },
+    "(So) Iron Will": {
+      "name": "(S) Voluntad de hierro",
+      "description": "Puedes usar Aguantar como armadura especial contra el miedo, la parálisis, la corrupción y la fatiga."
+    },
+    "(So) Loaded For Bear": {
+      "name": "(S) Armado hasta los dientes",
+      "description": "Cuando selecciones tu carga, recibes 4 cargas auxiliares en lugar de 2."
+    },
+    "(So) Over the Top": {
+      "name": "(S) Desmedido",
+      "description": "Cuando cargues hacia un enemigo que te supera en cantidad o que está mejor armado que tú, elimina 1 punto de estrés y recibe +1d a tus tiradas de Moverte."
+    },
+    "(So) Relentless": {
+      "name": "(S) Incansable",
+      "description": "Puedes gastar usos de Aguantar para esforzarte."
+    }
+  }
+}

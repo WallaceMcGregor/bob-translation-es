@@ -1,0 +1,106 @@
+{
+  "label": "Rasgos",
+  "mapping": {
+    "description": "system.description",
+    "class": "system.class",
+    "shortDescription": "system.shortdesc"
+  },
+  "entries": {
+    "Pious": {
+      "name": "Pío",
+      "description": "Cuando vayas a una misión, puedes añadir un relicario al resto de objetos que lleves.",
+      "class": "Bartan",
+      "shortDescription": "Siempre llevas un relicario"
+    },
+    "Noble": {
+      "name": "Noble",
+      "description": "Cuando el intendente declara acciones de campaña puedes aumentar el efecto de una acción que te afecte. Por ejemplo, si el intendente declara la acción de campaña Libertad, tu orite puede eliminar todo su estrés, aunque la Legión no recibe moral adicional.",
+      "class": "Orite",
+      "shortDescription": "Mejora una acción de campaña (solo para ti)"
+    },
+    "Bold": {
+      "name": "Audaz",
+      "description": "Recibes +1d cuando resistes las consecuencias de acciones desesperadas.",
+      "class": "Zemyati",
+      "shortDescription": "+1d resistencia acciones desesperadas"
+    },
+    "Traveler": {
+      "name": "Viajero",
+      "description": "Con carga normal eres tan rápido y silencioso como con carga ligera. Esto podría afectar a la situación o el efecto cuando corras, saltes, trepes (MOVERSE) o te muevas sigilosamente (INFILTRARSE).",
+      "class": "Panyar",
+      "shortDescription": "Rápido y silencioso con carga normal"
+    },
+    "Stubborn": {
+      "name": "Terco",
+      "description": "Recibes +1d cuando resistes con DETERMINACIÓN",
+      "class": "Zemyati",
+      "shortDescription": "+1d resistencia DETERMINACIÓN"
+    },
+    "Stoic": {
+      "name": "Estoico",
+      "description": "Recibes +1d cuando resistes con DESTREZA.",
+      "class": "Bartan",
+      "shortDescription": "+1d resistencia DESTREZA"
+    },
+    "Loyal": {
+      "name": "Leal",
+      "description": "Añade +1d a tu tirada cuando lideres o participes en una acción grupal.",
+      "class": "Zemyati",
+      "shortDescription": "+1d en acciones grupales"
+    },
+    "Tough": {
+      "name": "Resistente",
+      "description": "Las penalizaciones del nivel 1 de daño nunca reducen tu efecto.",
+      "class": "Zemyati",
+      "shortDescription": "Ignora las penalizaciones de nivel 1 de daño"
+    },
+    "Shrewd": {
+      "name": "Astuto",
+      "description": "Recibes +1d cuando resistes con PERSPICACIA",
+      "class": "Panyar",
+      "shortDescription": "+1d resistencia PERSPICACIA"
+    },
+    "Warm": {
+      "name": "Cálido",
+      "description": "Anota un nivel adicional de SOCIALIZAR durante la creación del personaje, hasta un máximo de 2. ",
+      "class": "Bartan",
+      "shortDescription": "+1 SOCIALIZAR (max 2)"
+    },
+    "Educated": {
+      "name": "Educado",
+      "description": " Anota un nivel adicional de INVESTIGAR durante la creación del personaje, hasta un máximo de 2",
+      "class": "Bartan",
+      "shortDescription": "+1 INVESTIGAR (max 2)"
+    },
+    "Connected": {
+      "name": "Contactos",
+      "description": "Anota un nivel adicional de CONVENCER durante la creación de tu personaje, hasta un máximo de 3.",
+      "class": "Orite",
+      "shortDescription": "+1 CONVENCER (max 3)"
+    },
+    "Stern": {
+      "name": "Severo",
+      "description": "Anota un nivel adicional de DISCIPLINAR durante la creación de tu personaje, hasta un máximo de 2.",
+      "class": "Orite",
+      "shortDescription": "+1 DISCIPLINAR (max 2)"
+    },
+    "Artisan": {
+      "name": "Artesano",
+      "description": "El nivel máximo de MANIPULAR aumenta a 4.",
+      "class": "Panyar",
+      "shortDescription": "Max. MANIPULAR es 4"
+    },
+    "Vengeful": {
+      "name": "Vengativo",
+      "description": "Ganas eficacia cuando sufres una penalización por daño.",
+      "class": "Orite",
+      "shortDescription": "Eficacia con penalización al daño"
+    },
+    "Marked": {
+      "name": "Marcado",
+      "description": "Recibes +2d cuando resistes corrupción.",
+      "class": "Panyar",
+      "shortDescription": "+2d para resistir corrupción"
+    }
+  }
+}
