@@ -12,7 +12,7 @@
     },
     "entries": {
         "Heavy": {
-            "name": "Tanque",
+            "name": "Heavy",
             "description": "Juega con un tanque si quieres destacar por tu fuerza y tu determinación contra la oscuridad.",
             "experience": "Si has utilizado la fuerza o la resistencia para ayudar a tu pelotón.",
             "label": "Misiones de Ataque y Reabastecimiento",
@@ -55,7 +55,7 @@
             }
         },
         "Rookie": {
-            "name": "Novato",
+            "name": "Rookie",
             "description": "Juega con un novato si quieres demostrar tu valía en el campo de batalla.",
             "experience": "Si no has obstaculizado a tu pelotón y has sobrevivido pese a todo.",
             "label": "N/A",
@@ -105,10 +105,10 @@
             }
         },
         "Scout": {
-            "name": "Explorador",
+            "name": "Scout",
             "description": "Juega con un explorador si tu objetivo es anticipar los movimientos del enemigo y saber en todo momento a lo que os enfrentáis.",
             "experience": "Si has utilizado el sigilo o la previsión para ayudar a tu pelotón.",
-            "label": "Misiones de Reconocimiento o Reabastecimiento",
+            "label": "Misiones de Reconocimiento y Reabastecimiento",
             "abilities": "",
             "effects": {
                 "ai1GvzC4JkmuwgsY": {
@@ -148,10 +148,10 @@
             }
         },
         "Officer": {
-            "name": "Oficial",
+            "name": "Officer",
             "description": "Juega con un oficial si quieres liderar a tus tropas hacia la victoria, aunque se enfrenten a una muerte segura.",
             "experience": "Si has utilizado la disciplina o la planificación estratégica para ayudar a tu pelotón.",
-            "label": "Misiones Religiosas y de Reabastecimiento",
+            "label": "Misiones Religiosas y Reabastecimiento",
             "abilities": "",
             "effects": {
                 "hBkxMAsEUZaq3hEs": {
@@ -191,7 +191,7 @@
             }
         },
         "Medic": {
-            "name": "Médico",
+            "name": "Medic",
             "description": "Juega con un médico si pretendes ayudar a que tus compañeros sobrevivan a la misión.",
             "experience": "Si has utilizado tus conocimientos médicos o apoyo emocional para ayudar a tu pelotón.",
             "label": "Misiones de Ataque y Religiosas",
@@ -246,7 +246,7 @@
             }
         },
         "Soldier": {
-            "name": "Soldado",
+            "name": "Soldier",
             "description": "Juega con un soldado si quieres atravesar los momentos más difíciles con la entereza de un recio veterano.",
             "experience": "Si has ayudado a tu pelotón con tu valentía o tu determinación.",
             "label": "N/A",
