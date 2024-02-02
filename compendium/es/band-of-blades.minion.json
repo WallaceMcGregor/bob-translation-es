@@ -1,0 +1,207 @@
+{
+  "label": "Ejércitos de no muertos",
+  "mapping": {
+    "type": "system.type",
+    "description": "system.description"
+  },
+  "entries": {
+    "The Gaunt": {
+      "name": "Macilentos",
+      "tokenName": "Macilentos",
+      "type": "Esbirro",
+      "description": "Cuando todavía eran humanos, se les drenó durante meses la sangre, que se mezclaba con sangre quemada y volvía a inyectárseles. Estos monstruos tienen placas de armadura clavadas y fusionadas directamente sobre la piel. Ninguno sobrevive al proceso, así que después de equiparlos es necesario reanimarlos. Los macilentos se mueven más lentamente que la mayoría de no muertos, pero su armadura hace que sea difícil acertar los disparos a cualquier distancia."
+    },
+    "The Hag": {
+      "name": "La Arpía",
+      "tokenName": "La Arpía",
+      "type": "Lugarteniente",
+      "description": "Después de matar y devorar a su aquelarre, la Arpía se ha adornado con sus calaveras. Esta bruja sombría se ha transformado en una fuerza mucho más poderosa, capaz de mantener varias maldiciones a la vez y siempre está buscando oportunidades para devorar más cantidad de la esencia de Destructora."
+    },
+    "Crows": {
+      "name": "Cuervos",
+      "tokenName": "Cuervos",
+      "type": "Esbirro",
+      "description": "Silenciosos no muertos con máscaras de doctor de la peste negra y capas que destacan en el campo de batalla por su apariencia. Las tropas les dieron el sobrenombre de cuervos después de verlos andar entre los cadáveres, marcándolos para llevarlos a reanimación. Su mera presencia permite a los no muertos centrarse y organizarse. Su proceso de creación no está claro, pero sus movimientos son increíblemente fluidos y sus cuerpos se pudren con rapidez una vez que se les mata."
+    },
+    "Horrors": {
+      "name": "Horrores",
+      "tokenName": "Horrores",
+      "type": "Élite",
+      "description": "Amalgamas de pesadilla fabricadas con partes de diferentes cuerpos que se cosen para formar moles llenas de furia. Estos gigantes de entre dos metros y medio y cuatro metros de altura solo son vulnerables a ataques coordinados y armas pesadas. Ni siquiera el disparo negro los mata instantáneamente. Muchos horrores están mejorados con partes de metal o piezas de armadura directamente atornilladas a su carne. Algunos llevan varios cuerpos cosidos y cuando luchan se debe considerar su escala."
+    },
+    "Thorns": {
+      "name": "Espinas",
+      "tokenName": "Espinas",
+      "type": "Élite",
+      "description": "Se crean atravesando los cadáveres asesinados por las tropas de Descoyuntador con espadas tratadas con sangre quemada. El proceso daña el cuerpo, que necesita la mezcla de sangre humana y quemada para permanecer activo. Durante el combate suelen presionar a sus víctimas contra ellas para empalarlas y absorber la sangre que necesitan. Si se las deja solas, lo más probable es que capturen a personas y vayan amputándoles los miembros poco a poco durante días para alimentarse."
+    },
+    "Shatter": {
+      "name": "Devastador",
+      "tokenName": "Devastador",
+      "type": "Infame",
+      "description": "Una espina forjada con las espadas de dos Elegidos muertos. Sus movimientos son precisos y los sonidos metálicos de cada uno de ellos rezuman malicia. Se dice que la sangre de los Elegidos se ha mezclado en su interior y parece que busca cualquier excusa para encontrar más."
+    },
+    "Viktoria Karhowl, the Macabre Scientist": {
+      "name": "Viktoria Karhowl, la Científica Macabra",
+      "tokenName": "Viktoria Karhowl, la Científica Macabra",
+      "type": "Lugarteniente",
+      "description": "Una ingeniera corrupta que, pese a no estar muerta, hace mucho que abandonó su humanidad a cambio de conseguir el favor del Rey Quemado. Lacra usa sus ingeniosos diseños para fabricar armas de asedio y avanzados mecanismos para su ejército."
+    },
+    "Lugos, the Clockwork Assassin": {
+      "name": "Lugos, el Asesino Mecánico",
+      "tokenName": "Lugos, el Asesino Mecánico",
+      "type": "Lugarteniente",
+      "description": "Este cuervo ha reemplazado gran parte de su cuerpo por avanzados mecanismos que mejoran su fuerza y su visión. La armadura que lleva lo hace inmune al disparo negro y a la mayoría de armas de filo. Lugos suele darse cuerda a sí mismo y solo siente algo cuando está rodeado de terror."
+    },
+    "Irag, the Flayed": {
+      "name": "Irag, el Desollado",
+      "tokenName": "Irag, el Desollado",
+      "type": "Lugarteniente",
+      "description": "Un famoso maestro de armas que se ha arrancado la piel como forma de demostrar su lealtad a Descoyuntador. Su cuerpo está atravesado por flechas y balas, pero no siente ningún dolor. Descoyuntador lo alimenta con sangre quemada pura, lo que le confiere una fuerza enorme."
+    },
+    "Wailer": {
+      "name": "La Plañidera",
+      "tokenName": "La Plañidera",
+      "type": "Infame",
+      "description": "Aunque la mayoría de horrores tienen una cabeza, la Plañidera tiene nueve en diversas partes de su cuerpo y todas lloran y gritan creando una cacofonía espeluznante. Esta criatura también lleva incrustados media docena de pinchos que utiliza para llevarse cuerpos con los que hacer «arreglos»."
+    },
+    "The Doctor": {
+      "name": "El Doctor",
+      "tokenName": "El Doctor",
+      "type": "Infame",
+      "description": "De vez en cuando, los cuervos recuperan su antiguo intelecto. El Doctor lleva una máscara de color blanco hueso con una huella sangrienta y se le puede encontrar improvisando modificaciones corporales en putrefactos y horrores, muchas veces con partes arrancadas de legionarios aún moribundos."
+    },
+    "Hexed": {
+      "name": "Malditos",
+      "tokenName": "Malditos",
+      "type": "Esbirro",
+      "description": "Destructora y sus acólitas, las brujas sombrías, graban sellos en la carne para controlar la mente de las víctimas y quebrar su alma directamente sin matar sus cuerpos primero. Un maldito bajo la supervisión de una bruja sombría puede hacerse pasar por una persona normal si solo se le inspecciona de pasada. Con estas maldiciones en su arsenal, incluso el pueblo más dócil se puede convertir en una amenaza."
+    },
+    "Ache": {
+      "name": "Dolor",
+      "tokenName": "Dolor",
+      "type": "Infame",
+      "description": "Dolor, que nació con el corazón situado en el lado derecho, ahora exhibe dos agujeros en el torso. El de su corazón permanece vacío, pero en el otro le gusta introducir la cabeza de su última conquista, que, disecada, le cuenta secretos que solo conocen los muertos."
+    },
+    "Bhed, the Wolf": {
+      "name": "Bhed, el Lobo",
+      "tokenName": "Bhed, el Lobo",
+      "type": "Lugarteniente",
+      "description": "Este transformado bestial de casi tres metros de alto con cabeza de lobo ignora la mayoría de las heridas. Casi siempre le rodea un círculo de cinco brujas sombrías que se aseguran de que nunca se libere de sus ataduras mentales para evitar que su furia se vuelva contra Destructora."
+    },
+    "Chimera": {
+      "name": "Quimera",
+      "tokenName": "Quimera",
+      "type": "Infame",
+      "description": "Quimera fue uno de los primeros experimentos de la Maldición Cambiante y, por algún motivo, logró sobrevivir. A diferencia de la mayoría de transformados, Quimera es una mezcla de varios animales y las cabezas de algunos de ellos intentan constantemente morder y destrozar su cuerpo."
+    },
+    "Spitters": {
+      "name": "Escupidores",
+      "tokenName": "Escupidores",
+      "type": "Élite",
+      "description": "Lacra captura y transporta jaulas llenas de personas para convertirlas en escupidores. A los prisioneros se les inyecta una solución y se les cose la boca mientras sus entrañas se transforman. Si la fórmula no es correcta o si mueren antes de transformarse, se convierten en sacos de tripas. Los escupidores babean constantemente ácido corrosivo y pueden vomitarlo a una distancia sorprendente. Se los utiliza para controlar un área y en combates a media distancia."
+    },
+    "Elia, the Passing Curse": {
+      "name": "Elia, la Maldición Errante",
+      "tokenName": "Elia, la Maldición Errante",
+      "type": "Infame",
+      "description": "Elia graba sus sellos sobre otras personas y ha aprendido a transferir su esencia. Esta maldita trabaja sola y muchos pelotones de legionarios se han dado cuenta demasiado tarde de que uno de sus miembros en realidad no era quien ellos creían."
+    },
+    "Eater": {
+      "name": "Fagos",
+      "tokenName": "Fagos",
+      "type": "Infame",
+      "description": "Este sabueso de piel pálida se deleita en el último aliento de los moribundos y les roba una parte de su esencia. Las voces de los muertos resuenan en sus aullidos provocando dolor físico o alucinaciones en la mente de sus presas."
+    },
+    "Silver": {
+      "name": "Plata",
+      "tokenName": "Plata",
+      "type": "Infame",
+      "description": "La montura de Destructora recibe este nombre por su color. Con una envergadura de cuatro metros y una fuerza eficaz, siembra el terror en el campo de batalla. Es famoso por cabalgar las tormentas y dejar caer a soldados sobre sus compañeros desde una gran altura."
+    },
+    "Hounds": {
+      "name": "Sabuesos",
+      "tokenName": "Sabuesos",
+      "type": "Esbirro",
+      "description": "Los sabuesos son personas a las que se les han cosido los ojos, arrancado los labios, afilado los dientes y enganchado cadenas a las costillas, espinas dorsales o clavículas. Son capaces de oler la respiración de los vivos, así que contenerla ayuda a esconderse de ellos. La mayoría de élites del ejército de Descoyuntador tienen a varios atados con correas para encontrar a enemigos que se hayan escapado y les recompensan permitiéndoles devorar alguna de sus extremidades."
+    },
+    "Gut-Sacks": {
+      "name": "Sacos de tripas",
+      "tokenName": "Sacos de tripas",
+      "type": "Élite",
+      "description": "Los sacos de tripas son intentos fallidos de crear escupidores y aparecen con más frecuencia que otros élites. Su físico oscilante y corpulento podría resultar cómico de no ser por su terrorífico efecto. Al acabar con ellos, sus cuerpos explotan y rocían todo a su alrededor con veneno y ácido corrosivo. Los sacos de tripas suelen movilizarse en grupos de tres acompañados de un cuervo u, ocasionalmente, otros élites."
+    },
+    "Rotters": {
+      "name": "Putrefactos",
+      "tokenName": "Putrefactos",
+      "type": "Esbirro",
+      "description": "Estos no muertos sienten un ardiente odio por los vivos. Sus cuerpos continúan pudriéndose mientras la magia negra los empuja hacia la batalla. Para crear putrefactos es necesario introducir un líquido alquímico en las venas de los cadáveres. Los carros cargados con los contenedores de este líquido podrían ser objetivos de misión a tener en cuenta. Lacra está constantemente experimentando con enfermedades y toxinas que, al inyectarse en una persona antes de que muera, la conviertan en un putrefacto."
+    },
+    "Transformed": {
+      "name": "Transformados",
+      "tokenName": "Transformados",
+      "type": "Élite",
+      "description": "Los mismos sellos que se graban en los malditos también pueden deformar cuerpos y cambiar partes humanas en partes de animales. Estas transformaciones no son completas; algunos miembros nunca se transforman del todo y otros se retuercen o agrandan. Los transformados son tropas de choque que permanecen para siempre consumidas por el dolor de su transformación y son aterradoramente efectivas."
+    },
+    "Burned": {
+      "name": "Quemados",
+      "tokenName": "Quemados",
+      "type": "Esbirro",
+      "description": "Se crean empalando los cuerpos de personas vivas o recién asesinadas en árboles especialmente preparados provistos de ramas afiladas. La invocación casi constante de tormentas provoca que los rayos los golpeen y los reanimen. Los quemados pueden desprender chispas y emitir pequeñas descargas al recibir un golpe. Además, a diferencia de otros no muertos, sus entrañas todavía están calientes. Destruir estos árboles debería ser una de las prioridades de la Legión."
+    },
+    "Ogiyer, the Cinder Guard": {
+      "name": "Ogiyer, el Guardia Quemado",
+      "tokenName": "Ogiyer, el Guardia Quemado",
+      "type": "Lugarteniente",
+      "description": "Ogiyer es un cadáver descompuesto cuyo interior hueco está recorrido por llamas negras, ataviado con una armadura roja. Para vigilar de cerca a Destructora, el Rey Quemado ha decidido que esta potente monstruosidad blindada no se separe de ella."
+    },
+    "Heartless": {
+      "name": "Descorazonados",
+      "tokenName": "Descorazonados",
+      "type": "Élite",
+      "description": "Se suelen escoger de entre las filas de caballeros y se les inyecta sangre quemada para aumentar su fuerza y tamaño. Estos gigantes llevan ornamentadas armaduras de metal que solo dejan al descubierto sus torsos, donde exhiben con orgullo el agujero en el lugar donde se arrancaron el corazón por si Descoyuntador quiere inspeccionarlo. Los descorazonados blanden descomunales armas de metal que utilizan para seccionar miembros y desgarrar armaduras."
+    },
+    "Devourers": {
+      "name": "Devoradores",
+      "tokenName": "Devoradores",
+      "type": "Élite",
+      "description": "Destructora invoca y corrompe a estas enormes criaturas parecidas a murciélagos para transformarlas en devoradores. Las que antaño fueran las bestias sagradas de plumas arcoíris de Vazara ahora están cubiertas de de un plumaje negro y un pelaje lleno de sarna. Atacan desde el cielo con dientes afilados como cuchillas y pueden agarrar a soldados armados hasta los dientes. Sus chillidos inspiran miedo en el corazón de cualquier legionario."
+    },
+    "Black Rotting Gale, the Abomination": {
+      "name": "Vendaval Negro Putrefacto, la Abominación",
+      "tokenName": "Vendaval Negro Putrefacto, la Abominación",
+      "type": "Lugarteniente",
+      "description": "A la hora de crear este horror, Viktoria y Lacra decidieron sacrificar parte de su tamaño para colocarle tubos y tanques llenos de sustancias alquímicas. Cuando anda, la abominación descarga una nube que resulta tóxica para todo tipo de materia orgánica. Su mayor anhelo es eliminar toda la vida natural."
+    },
+    "Zenya, the Sable Arrow": {
+      "name": "Zenya, la Flecha Azabache",
+      "tokenName": "Zenya, la Flecha Azabache",
+      "type": "Lugarteniente",
+      "description": "Zenya, una arquera de cabello negro como el ala de un cuervo, es la principal exploradora de la orden del Roble Negro. Su carcaj contiene las flechas que Descoyuntador le ha regalado, proyectiles que infligen corrupción y enfermedad y son capaces de quemar a un legionario desde dentro."
+    },
+    "Shadow Witches": {
+      "name": "Brujas sombrías",
+      "tokenName": "Brujas sombrías",
+      "type": "Élite",
+      "description": "Las brujas llevan una parte de Destructora cosida al cuerpo y suplican perdón en combate, pero están controladas desde su interior y han dejado de ser humanas. Usan maldiciones para retorcer el mundo que las rodea a voluntad, unir miembros, corromper animales, contaminar suministros y debilitar a las tropas antes de lanzar a los no muertos sobre ellas."
+    },
+    "Red Hook": {
+      "name": "Gancho Rojo",
+      "tokenName": "Gancho Rojo",
+      "type": "Infame",
+      "description": "Tras un desagradable enfrentamiento contra tropas en una posición fortificada, este horror perdió una «mano», que reemplazó por un gancho unido a una cadena. Desde entonces, utiliza el gancho para escalar murallas y arrastrar a soldados para que griten y actúen como señuelo."
+    },
+    "Mihkin, the Dark General": {
+      "name": "Mihkin, el General Oscuro",
+      "tokenName": "Mihkin, el General Oscuro",
+      "type": "Lugarteniente",
+      "description": "Mihkin cabalga sobre un caballo acorazado y blande una lanza sagrada que cortó de su árbol familiar, ahora ennegrecida y retorcida. Sobre sus hombros descansan las calaveras de quienes no estuvieron de acuerdo con su decisión de que los caballeros se mantuvieran fieles a Descoyuntador."
+    },
+    "Knights of the Black Oak": {
+      "name": "Caballeros del Roble Negro",
+      "tokenName": "Caballeros del Roble Negro",
+      "type": "Élite",
+      "description": "Esta orden sagrada juró lealtad a Vlaisim y decidió seguir siéndole leal después de su Quiebra. Los caballeros están formados por una mezcla de lanceros y caballería pesada, pero el tiempo que han pasado junto a Descoyuntador los ha transformado. Muchos exhiben macabros trofeos y se escarifican para demostrar su lealtad. Otros usan ganchos con cadenas para arrastrar a los vivos que pretenden transformar. Como siguen vivos, el disparo negro tiene un efecto reducido contra ellos."
+    }
+  }
+}
