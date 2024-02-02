@@ -1,343 +1,428 @@
 {
   "label": "Equipo",
   "mapping": {
-    "description": "system.description"
+    "description": "system.description",
+    "load": "system.load_type"
   },
   "entries": {
     "(U) Black Shot": {
       "name": "(A) Disparo negro",
+      "load": "Utility",
       "description": "Estas balas fabricadas por alquimistas tienen gran valor. Se transportan en estuches de madera o de cuero, sellados y rellenos de serrín. Con solo un roce, consiguen matar a los no muertos menos poderosos. Proporcionan mayor eficacia contra los no muertos. No agitar. Utilizar con moderación. Tres usos."
     },
     "(U) Ammo": {
       "name": "(A) Munición",
+      "load": "Utility",
       "description": "Pólvora, tacos o cartuchos de papel para cargar armas de pólvora y pistolas. Utilízala para recargar armas de fuego. Cinco usos."
     },
     "(U) Reliquary": {
       "name": "(A) Relicario",
+      "load": "Utility",
       "description": "Huesos de un antiguo Elegido en viales de santo óleo. Virutas de reliquias. Tomos de escrituras sagradas. Utilízalo para reducir en 1 la corrupción recibida y obtener +1d para resistirla. Tres usos. Buena calidad: Reduce la corrupción en 2."
     },
     "(U) Winter Clothing": {
       "name": "(A) Ropa de invierno",
+      "load": "Utility",
       "description": "No te mueras de frío. Pero, si lo haces, no te vuelvas a levantar."
     },
     "(U) Extra Grenade": {
       "name": "(A) Granada adicional",
+      "load": "Utility",
       "description": "Explosivo pequeño, fácilmente lanzable."
     },
     "(L) Fine Repair Kit": {
       "name": "(L) Utensilios de reparación de buena calidad",
+      "load": "Ligera",
       "description": "Martillos, limas, clavos, pernos, tablas, poleas, cuerda, sierras. Utilízalos para bloquear trampas, reparar puertas o armas de asedio, etcétera. Elige un utensilios de buena calidad."
     },
     "(U) Hand Weapon": {
       "name": "(A) Arma blanca",
+      "load": "Utility",
       "description": "Espada, lanza o hacha. Un arma a una mano de uso militar. No un cuchillo. Puedes llevar dos si no utilizas escudo. Buena calidad: Espada de duelista, espada bastarda, sable, lanza de duramen o arma a una mano similar. De calidad excepcional y con nombre propio."
     },
     "(N) Fine Luxury Item": {
       "name": "(N) Objeto accesorio de buena calidad",
+      "load": "Normal",
       "description": "Una botella de un buen brandy, un bonito juego de mesa, un instrumento musical. Son los privilegios del cargo."
     },
     "(U) Supplies": {
       "name": "(A) Suministros",
+      "load": "Utility",
       "description": "Comida seca empaquetada para el viaje. No muy apetitosa a menos que se haya cocinado previamente. Puede alimentar a un legionario durante un día. Reza por que algún novato haya traído utensilios de cocina."
     },
     "(U) Large Weapon": {
       "name": "(A) Arma a dos manos",
+      "load": "Utility",
       "description": "Alabarda u otra arma de asta, hacha de gran tamaño, maza. Buena calidad: Claymore, martillo de guerra, mangual. Aunque es demasiado pesada para la mayoría, estás acostumbrado a ella y le das buen uso."
     },
     "(L) Fine Medic Kit": {
       "name": "(L) Utensilios médicos de buena calidad",
+      "load": "Ligera",
       "description": "Antiséptico, cabestrillos, hilo de sutura, cataplasmas, gasas. Utilízalos como armadura especial contra enfermedades y complicaciones de heridas. Buena calidad: También incluyen vendas, bebedizos, compresas estériles y medicinas."
     },
     "(H) Fine Long Rifle": {
       "name": "(P) Fusil largo de buena calidad",
+      "load": "Pesada",
       "description": "Un portento de mecánica orite con mirilla. Preciso a 220 metros, pero ruidoso. Utiliza balas encamisadas. Con carga ligera, elige esto o 2 pistolas de buena calidad. Con carga pesada, elige ambos."
     },
     "(L) Memento of Home": {
       "name": "(L) Recuerdo del hogar",
+      "load": "Ligera",
       "description": "Una joya, unas flores prensadas, una daga de buena calidad con un blasón familiar, un pequeño retrato, una carta, un libro."
     },
     "(U) Extra Explosive Charge": {
       "name": "(A) Explosivos adicional",
+      "load": "Utility",
       "description": "Gran explosivo que se puede colocar."
     },
     "(N) Tents and Camping Gear": {
       "name": "(N) Tiendas y equipo de acampada",
+      "load": "Normal",
       "description": "Cobertizos y quizás la tienda del cabo. Protegen de la lluvia. Todo el mundo espera que tú los lleves y nadie te dará las gracias por ello. Elige esto o utensilios de cocina y víveres."
     },
     "(U) Armor": {
       "name": "(A) Armadura",
+      "load": "Utility",
       "description": "Cuero en su mayoría, a veces malla. Protege contra cuchillos y mordiscos de no muertos, pero no sirve de mucho contra enemigos de gran tamaño. Proporciona 1 punto de armadura frente a ataques físicos. Buena calidad: Adornada o teñida. Personalizada para ti."
     },
     "(L) Fine Armor": {
       "name": "(L) Armadura de buena calidad",
+      "load": "Ligera",
       "description": "Cuero en su mayoría, a veces malla. Protege contra cuchillos y mordiscos de no muertos, pero no sirve de mucho contra enemigos de gran tamaño. Proporciona 1 punto de armadura frente a ataques físicos. Buena calidad: Adornada o teñida. Personalizada para ti."
     },
     "(H) Armor": {
       "name": "(P) Armadura",
+      "load": "Pesada",
       "description": "Cuero en su mayoría, a veces malla. Protege contra cuchillos y mordiscos de no muertos, pero no sirve de mucho contra enemigos de gran tamaño. Proporciona 1 punto de armadura frente a ataques físicos. Buena calidad: Adornada o teñida. Personalizada para ti."
     },
     "(L) Fine Ornate Cloak (optional)": {
       "name": "(L) Capa ornamentada de buena calidad (opcional)",
+      "load": "Ligera",
       "description": "Un atuendo propio de un oficial. Incluye un broche con blasón. Simboliza tu posición entre las tropas."
     },
     "(U) Soldier's Kit": {
       "name": "(A) Utensilios de soldado",
+      "load": "Utility",
       "description": "Saco de dormir, yesca y pedernal, cuchillo, farol, espejo pequeño, jabón, neceser de afeitado, pala, piedra de afilar, raciones para un día, etcétera. Todos los paquetes de utensilios de soldado incluyen los mismos objetos, pero los soldados trocan algunos y los personalizan con elementos adicionales."
     },
     "(N) Fine Heavy Weapon": {
       "name": "(N) Arma a dos manos de buena calidad",
+      "load": "Normal",
       "description": "Alabarda u otra arma de asta, hacha de gran tamaño, maza. Buena calidad: Claymore, martillo de guerra, mangual. Aunque es demasiado pesada para la mayoría, estás acostumbrado a ella y le das buen uso. Elige esto o escudo de buena calidad."
     },
     "(L) Fine Long Rifle": {
       "name": "(L) Fusil largo de buena calidad",
+      "load": "Ligera",
       "description": "Un portento de mecánica orite con mirilla. Preciso a 220 metros, pero ruidoso. Utiliza balas encamisadas. Con carga ligera, elige esto o 2 pistolas de buena calidad. Con carga pesada, elige ambos."
     },
     "(U) Oil": {
       "name": "(A) Aceite",
+      "load": "Utility",
       "description": "Tiene una gran variedad de usos, desde silenciar bisagras a rellenar faroles. Fácilmente inflamable. Tres usos."
     },
     "(L) Fine Hand Weapon": {
       "name": "(L) Arma blanca de buena calidad",
+      "load": "Ligera",
       "description": "Espada, lanza o hacha. Un arma a una mano de uso militar. No un cuchillo. Puedes llevar dos si no utilizas escudo. Buena calidad: Espada de duelista, espada bastarda, sable, lanza de duramen o arma a una mano similar. De calidad excepcional y con nombre propio."
     },
     "(N) More Tonics": {
       "name": "(N) Bálsamos",
+      "load": "Normal",
       "description": "Pociones y bebedizos para eliminar el dolor, curar dolencias comunes, ayudar a dormir u ofrecer una muerte misericordiosa a quien está más allá de toda salvación. Material para cirugías. Usos: 1."
     },
     "(L) Black Shot": {
       "name": "(L) Disparo negro",
+      "load": "Ligera",
       "description": "Estas balas fabricadas por alquimistas tienen gran valor. Se transportan en estuches de madera o de cuero, sellados y rellenos de serrín. Con solo un roce, consiguen matar a los no muertos menos poderosos. Proporcionan mayor eficacia contra los no muertos. No agitar. Utilizar con moderación. Tres usos."
     },
     "(U) Pistol": {
       "name": "(A) Pistola",
+      "load": "Utility",
       "description": "Disparo único. Retrocarga. Buena calidad: Revólver orite de exquisita manufactura con elegantes grabados y equilibrado para una carga rápida. Cinco disparos."
     },
     "(H) Fine Wrecking Kit": {
       "name": "(P) Utensilios de demolición de buena calidad",
+      "load": "Pesada",
       "description": "Mazo, pernos, palanca, hachas, taladros. Viales de ácido y pequeñas cargas alquímicas."
     },
     "(H) Lots of Tonics": {
       "name": "(P) Bálsamos",
+      "load": "Pesada",
       "description": "Pociones y bebedizos para eliminar el dolor, curar dolencias comunes, ayudar a dormir u ofrecer una muerte misericordiosa a quien está más allá de toda salvación. Material para cirugías. Usos: 2."
     },
     "(L) Fine Compass and Maps": {
       "name": "(L) Brújula y mapas de buena calidad",
+      "load": "Ligera",
       "description": "Brújula bartana de buena calidad. Mapas de la zona con anotaciones propias."
     },
     "(U) Medic Kit": {
       "name": "(A) Utensilios médicos",
+      "load": "Utility",
       "description": "Antiséptico, cabestrillos, hilo de sutura, cataplasmas, gasas. Utilízalos como armadura especial contra enfermedades y complicaciones de heridas. Tres usos. Buena calidad: También incluyen vendas, bebedizos, compresas estériles y medicinas."
     },
     "(L) Ammo": {
       "name": "(L) Munición",
+      "load": "Ligera",
       "description": "Pólvora, tacos o cartuchos de papel para cargar armas de pólvora y pistolas. Utilízala para recargar armas de fuego. Cinco usos."
     },
     "(U) Flare Gun": {
       "name": "(A) Pistola de bengalas",
+      "load": "Utility",
       "description": "Pistola de cañón basculante con cargas de humo de color y bengalas para señalización nocturna. Incluye cuatro proyectiles."
     },
     "(L) Black Arrows": {
       "name": "(L) Flechas negras",
+      "load": "Ligera",
       "description": "Flechas embadurnadas en disparo negro. Eficaces contra no muertos. Tres usos."
     },
     "(N) Ammo": {
       "name": "(N) Munición",
+      "load": "Normal",
       "description": "Pólvora, tacos o cartuchos de papel para cargar armas de pólvora y pistolas. Utilízala para recargar armas de fuego. Cinco usos.  Elige esto y pistola de buena calidad o escudo de buena calidad."
     },
     "(N) Fresh Food": {
       "name": "(N) Víveres",
+      "load": "Normal",
       "description": "Los suficientes para una buena comida o un apetitoso guiso. Una de las pocas cosas que harán que los especialistas te respeten. Un uso. Elige esto y utensilios de cocina o tiendas y equipo de acampada."
     },
     "(U) Heavy Weapon": {
       "name": "(A) Arma a dos manos",
+      "load": "Utility",
       "description": "Alabarda u otra arma de asta, hacha de gran tamaño, maza. Buena calidad: Claymore, martillo de guerra, mangual. Aunque es demasiado pesada para la mayoría, estás acostumbrado a ella y le das buen uso."
     },
     "(L) Grenade": {
       "name": "(L) Granada",
+      "load": "Ligera",
       "description": "Explosivo pequeño, fácilmente lanzable. Elige esto o explosivos."
     },
     "(H) +1 Utility": {
       "name": "(P) +1 carga auxiliar",
+      "load": "Pesada",
       "description": "Carga adicional"
     },
     "(U) Books and Scrolls": {
       "name": "(A) Libros y pergaminos",
+      "load": "Utility",
       "description": "Llevas contigo un tratado académico útil o algún pasaje de los Anales. Utilízalos para obtener 1d o 1 grado de efecto en tiradas de Investigar. Dos usos."
     },
     "(L) Musket": {
       "name": "(L) Mosquete",
+      "load": "Ligera",
       "description": "Fusil de retrocarga con proyectiles esféricos. El arma estándar de la Legión. Es precisa hasta un máximo de 46 metros de distancia. A los novatos que no lleven uno les caerá una buena bronca."
     },
     "(N) Fine Shield": {
       "name": "(N) Escudo de buena calidad",
+      "load": "Normal",
       "description": "De madera con refuerzos metálicos. Proporciona 1 punto de armadura contra ataques físicos. Buena calidad: Escudo de metal repujado con el símbolo que más te guste. Elige esto o arma a dos manos de buena calidad."
     },
     "(L) Holy Symbol of Mercy": {
       "name": "(L) Símbolo sagrado de la misericordia",
+      "load": "Ligera",
       "description": "Un símbolo físico de la diosa de la misericordia que suele llevarse en forma de broche, collar o envolviendo la mano."
     },
     "(L) Fine Cooking Kit": {
       "name": "(L) Utensilios de cocina de buena calidad",
+      "load": "Ligera",
       "description": "Cazuelas, sartenes, parrillas, especias y carbón. Si un novato no los lleva, le mirarán mal. Elige un utensilios de buena calidad."
     },
     "(U) Climbing Kit": {
       "name": "(A) Utensilios de escalada",
+      "load": "Utility",
       "description": "Ganchos, clavijas, cuerda. Esencial para montañas y útil en bosques."
     },
     "(U) Lenses": {
       "name": "(A) Lente",
+      "load": "Utility",
       "description": "Lente telescópica bartana para observar a distancia. Cara. No la pierdas.."
     },
     "(L) Tonics": {
       "name": "(L) Bálsamos",
+      "load": "Ligera",
       "description": "Pociones y bebedizos para eliminar el dolor, curar dolencias comunes, ayudar a dormir u ofrecer una muerte misericordiosa a quien está más allá de toda salvación. Material para cirugías. De un solo uso."
     },
     "(U) Wrecking Kit": {
       "name": "(A) Utensilios de demolición",
+      "load": "Utility",
       "description": "Mazo, cincel, palanca, hachas, taladros. Viales de ácido y pequeñas cargas alquímicas."
     },
     "(N) Gun Maintenance Kit": {
       "name": "(N) Utensilios para armas de fuego",
+      "load": "Normal",
       "description": "Para desencasquillar armas y modificar una pistola en cualquier parte. Ningún francotirador debería prescindir de ellos."
     },
     "(N) Fine Lenses": {
       "name": "(N) Lente de buena calidad",
+      "load": "Normal",
       "description": "Lente telescópica bartana para observar a distancia. Cara. No la pierdas.."
     },
     "(N) Fine Pistol": {
       "name": "(N) Pistola de buena calidad",
+      "load": "Normal",
       "description": "Disparo único. Retrocarga. Buena calidad: Revólver orite de exquisita manufactura con elegantes grabados y equilibrado para una carga rápida. Cinco disparos."
     },
     "(H) Fine Heavy Armor": {
       "name": "(P) Armadura pesada de buena calidad",
+      "load": "Pesada",
       "description": "Placas de metal y cuero. Varias capas de protección. Muchas tienen diseños repujados, sellos y blasones pintados. No es ni sutil ni silenciosa. Permite ignorar casi por completo las hojas de pequeño tamaño y los puñetazos. Proporciona 2 puntos de armadura contra ataques físicos."
     },
     "(U) Shield": {
       "name": "(A) Escudo",
+      "load": "Utility",
       "description": "De madera con refuerzos metálicos. Proporciona 1 punto de armadura contra ataques físicos. Buena calidad: Escudo de metal repujado con el símbolo que más te guste."
     },
     "(L) Fine Wrecking Kit": {
       "name": "(L) Utensilios de demolición de buena calidad",
+      "load": "Ligera",
       "description": "Mazo, cincel, palanca, hachas, taladros. Viales de ácido y pequeñas cargas alquímicas. Elige un utensilios de buena calidad."
     },
     "(U) Crimson Shot": {
       "name": "(A) Disparo carmesí",
+      "load": "Utility",
       "description": "Has recibido autorización para llevar contigo un proyectil de Buscador Carmesí a las misiones. Dispararlo se considera un ataque de nivel 4 de amenaza. Cuando lo uses, anota un trauma."
     },
     "(N) Cooking Kit": {
       "name": "(N) Utensilios de cocina",
+      "load": "Normal",
       "description": "Cazuelas, sartenes, parrillas, especias y carbón. Si no los llevas, te mirarán mal. Elige esto y víveres o tiendas y equipo de acampada."
     },
     "(U) Alchemical Bandolier": {
       "name": "(A) Bandolera alquímica",
+      "load": "Utility",
       "description": "Bandolera de cuatro usos para elaborar una de las siguientes sustancias alquímicas:\nOjo de búho: Un aceite que permite ver en la oscuridad durante 24 horas, aunque cualquier luz intensa provoca deslumbramiento.\nQuimiobálsamo: Neutraliza la mayoría de venenos y toxinas. También es un excelente desinfectante para el campo de batalla (podría afectar a las tiradas de fortuna con curar).\nProfundo: Te permite aguantar la respiración durante una escena.\nVeneno furioso: Otorga eficacia física durante una escena. Debes resistir con determinación para evitar atacar indiscriminadamente a amigos y enemigos. Es adictivo."
     },
     "(L) Mark of the Healing God (optional)": {
       "name": "(L) Marca de la diosa de la curación (opcional)",
+      "load": "Ligera",
       "description": "Los médicos que prestan el juramento de curación y misericordia en un templo de Asrika (no busques el mal a persona alguna, no rechaces a ningún paciente, ofrece misericordia a aquellos a los que ya no se pueda salvar) reciben la marca con el símbolo de las alas plegadas. Este símbolo es universalmente conocido como la marca de un médico. Cualquier extraño se mostrará cortés y dejará pasar a alguien marcado cuando, de lo contrario, no lo habría hecho."
     },
     "(N) +2 Utility": {
       "name": "(N) +2 carga auxiliar",
+      "load": "Normal",
       "description": "Carga auxiliar"
     },
     "(H) Shield": {
       "name": "(P) Escudo",
+      "load": "Pesada",
       "description": "De madera con refuerzos metálicos. Proporciona 1 punto de armadura contra ataques físicos. Buena calidad: Escudo de metal repujado con el símbolo que más te guste."
     },
     "(N) Climbing Kit": {
       "name": "(N) Utensilios de escalada",
+      "load": "Normal",
       "description": "Ganchos, clavijas, cuerda. Esencial para montañas y útil en bosques."
     },
     "(U) Extra Extra Explosive Charge": {
       "name": "(A) Explosivo adicional adicional",
+      "load": "Utility",
       "description": "Gran explosivo que se puede colocar."
     },
     "(L) Fine Climbing Kit": {
       "name": "(L) Utensilios de escalada de buena calidad",
+      "load": "Normal",
       "description": "Ganchos, clavijas, cuerda. Esencial para montañas y útil en bosques. Elige un utensilios de buena calidad."
     },
     "(L) Naive Hope": {
       "name": "(L) Ingenua esperanza",
+      "load": "Ligera",
       "description": "Puede ser una ventaja o un lastre. De todas formas, no te durará mucho."
     },
     "(H) Fine Tower Shield": {
       "name": "(P) Escudo de torre de buena calidad",
+      "load": "Pesada",
       "description": "Sustituye al escudo. Escudo enorme que puede detener proyectiles a cualquier distancia y proteger a los demás. Proporciona 1 punto de armadura."
     },
     "(H) Fine Armor": {
       "name": "(P) Armadura de buena calidad",
+      "load": "Pesada",
       "description": "Cuero en su mayoría, a veces malla. Protege contra cuchillos y mordiscos de no muertos, pero no sirve de mucho contra enemigos de gran tamaño. Proporciona 1 punto de armadura frente a ataques físicos. Buena calidad: Adornada o teñida. Personalizada para ti."
     },
     "(L) 2 Fine Pistols": {
       "name": "(L) 2 pistolas de buena calidad",
+      "load": "Ligera",
       "description": "Disparo único. Retrocarga. Buena calidad: Revólver orite de exquisita manufactura con elegantes grabados y equilibrado para una carga rápida. Cinco disparos. Con carga ligera, elige esto o 2 pistolas de buena calidad. Con carga pesada, elige ambos."
     },
     "(N) Family Weapon": {
       "name": "(N) Arma familiar",
+      "load": "Normal",
       "description": "No muy distinguida, pero tiene su historia. ¿Cómo la obtuviste?"
     },
     "(H) 2 Fine Pistols": {
       "name": "(P) 2 pistolas de buena calidad",
+      "load": "Pesada",
       "description": "Elige lo que no hayas seleccionado con carga ligera."
     },
     "(U) Musket": {
       "name": "(A) Mosquete",
+      "load": "Utility",
       "description": "Fusil de retrocarga con proyectiles esféricos. El arma estándar de la Legión. Es precisa hasta un máximo de 50 metros de distancia. A los novatos que no lleven uno les caerá una buena bronca."
     },
     "(U) Extra Extra Grenade": {
       "name": "(A) Granada adicional adicional",
+      "load": "Utility",
       "description": "Explosivo pequeño, fácilmente lanzable."
     },
     "(H) Battlefield Banner": {
       "name": "(P) Estandarte de batalla",
+      "load": "Pesada",
       "description": "Un estandarte para coordinar a las tropas y subirles la moral (salvo que caiga). ¿A quién le encargas llevarlo?"
     },
     "(L) Explosive Charge": {
       "name": "(L) Explosivos",
+      "load": "Ligera",
       "description": "Gran explosivo que se puede colocar. Elige esto o una granada."
     },
     "(U) Repair Kit": {
       "name": "(A) Utensilios de reparación",
+      "load": "Utility",
       "description": "Martillos, limas, clavos, pernos, tablas, poleas, cuerda, sierras. Utilízalos para bloquear trampas, reparar puertas o armas de asedio, etcétera."
     },
     "(N) Armor": {
       "name": "(N) Armadura",
+      "load": "Normal",
       "description": "Cuero en su mayoría, a veces malla. Protege contra cuchillos y mordiscos de no muertos, pero no sirve de mucho contra enemigos de gran tamaño. Proporciona 1 punto de armadura frente a ataques físicos. Buena calidad: Adornada o teñida. Personalizada para ti."
     },
     "(N) Fitted Heavy Plate": {
       "name": "(N) Armadura de placas a medida",
+      "load": "Normal",
       "description": "Sustituye a la armadura. Es tu armadura distintiva y personalizada. Equivale a una armadura de buena calidad (2 puntos de armadura)."
     },
     "(L) Soldier's Kit": {
       "name": "(L) Utensilios de soldado",
+      "load": "Ligera",
       "description": "Saco de dormir, yesca y pedernal, cuchillo, farol, espejo pequeño, jabón, neceser de afeitado, pala, piedra de afilar, raciones para un día, etcétera."
     },
     "(U) Compass and Maps": {
       "name": "(A) Brújula y mapas",
+      "load": "Utility",
       "description": "Brújula bartana de buena calidad, difícil de reemplazar. Mapas de la zona con anotaciones propias."
     },
     "(L) Flare Gun": {
       "name": "(L) Pistola de bengalas",
+      "load": "Ligera",
       "description": "Pistola de cañón basculante con cargas de humo de color y bengalas para señalización nocturna. Incluye cuatro proyectiles."
     },
     "(L) Fine Bow and Arrows": {
       "name": "(L) Arco y flechas de buena calidad",
+      "load": "Ligera",
       "description": "Arco recurvo de duramen panyar. Silencioso como un susurro."
     },
     "(L) Fine Soldier's Kit": {
       "name": "(L) Utensilios de soldado de buena calidad",
+      "load": "Ligera",
       "description": "Saco de dormir, yesca y pedernal, cuchillo, farol, espejo pequeño, jabón, neceser de afeitado, pala, piedra de afilar, raciones para un día, etcétera. Elige un utensilios de buena calidad."
     },
     "(N) Fine Armor": {
       "name": "(N) Armadura de buena calidad",
+      "load": "Normal",
       "description": "Cuero en su mayoría, a veces malla. Protege contra cuchillos y mordiscos de no muertos, pero no sirve de mucho contra enemigos de gran tamaño. Proporciona 1 punto de armadura frente a ataques físicos. Buena calidad: Adornada o teñida. Personalizada para ti."
     },
     "(N) Fine Reliquary": {
       "name": "(N) Relicario de buena calidad",
+      "load": "Normal",
       "description": "Huesos de un antiguo Elegido en viales de santo óleo. Virutas de reliquias. Tomos de escrituras sagradas. Utilízalo para reducir en 1 la corrupción recibida y obtener +1d para resistirla. Tres usos. Buena calidad: Reduce la corrupción en 2."
     },
     "(H) Camo Gear": {
       "name": "(P) Equipo de camuflaje",
+      "load": "Pesada",
       "description": "Redes, ropa, sacos de dormir y tiendas de campaña, todo ello diseñado para mimetizarse con el entorno. Puedes ocultar un campamento entero con este equipo."
     }
   }
