@@ -1,0 +1,39 @@
+{
+  "label": "Espías",
+  "mapping": {
+    "description": "system.description",
+    "special": "system.special"
+  },
+  "entries": {
+    "Crimson Vexing Gale": {
+      "name": "Vendaval Carmesí Irritante",
+      "description": "Se sabe poco sobre este misterioso personaje, salvo que sus ojos brillan con reflejos plateados. Vendaval va y viene como le place. Existen muchos rumores sobre su pasado, pero nadie duda de su lealtad.",
+      "special": "No recibe heridas en ninguna operación."
+    },
+    "Bortis": {
+      "name": "Bortis",
+      "description": "Este canoso zemyati es un valioso agente tanto dentro como fuera del campo. Según los rumores, si vive para contarlo será el próximo jefe de espías. Como entrenador se le considera duro pero justo.",
+      "special": "En operaciones de ampliar la red, Bortis genera +1 sector con sus tiradas."
+    },
+    "Liya": {
+      "name": "Liya",
+      "description": "Esta bartana no luce la tradicional joyería de su pueblo que simboliza la amistad y muestra preferencia por la infiltración y las misiones largas. Además, es una experta duelista y una reputada maestra de armas.",
+      "special": "Liya recibe +1d en operaciones de Investigación."
+    },
+    "Onyetin": {
+      "name": "Onyetin",
+      "description": "Este hombre amigable con apariencia de oso es uno de los asesinos más letales de los reinos orientales. Onyetin sabe perfectamente cómo detectar depósitos de suministros y descubrir objetivos ocultos.",
+      "special": "Onyetin recibe +1d en operaciones de amplificación de misiones."
+    },
+    "Antoinette": {
+      "name": "Antoinette",
+      "description": "Esta costurera orite a la que se negó la nobleza por nacimiento ha encontrado una vocación más acorde a sus talentos. A lo largo de su vida ha roto incontables corazones, envenenado tanto a nobles como a guerreros y nunca ha fallado una misión.",
+      "special": "Antoinette mejora automáticamente a maestra cuando la selecciones."
+    },
+    "Igrid": {
+      "name": "Igrid",
+      "description": "Una aldermaní de la zona, que se integra con facilidad en cualquier población cercana y viaja por la región libremente, tomando nota de todas las noticias y rumores. También es una experta montañera a la que el terreno escarpado no le supone ningún obstáculo.",
+      "special": "Cuando Igrid interrogue, haz una pregunta de información adicional."
+    }
+  }
+}

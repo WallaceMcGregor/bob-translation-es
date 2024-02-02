@@ -1,0 +1,192 @@
+{
+  "label": "Habilidades de Elegido/Quebrado",
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": {
+    "Abominable Science": {
+      "name": "Ciencia abominable",
+      "description": "Los cirujanos de Lacra han aprendido a unir a varios no muertos cosiéndolos. Pueden aparecer horrores en cualquier misión."
+    },
+    "Anointed": {
+      "name": "Ungida",
+      "description": "Las misiones sagradas, místicas y de misericordia dan favor de misión. Comienza con 1 favor de misión ya marcado."
+    },
+    "Asrika's Blessing": {
+      "name": "Bendición de Asrika",
+      "description": "Los legionarios siempre reciben 1 punto menos de corrupción."
+    },
+    "Asrika's Mercy": {
+      "name": "Misericordia de Asrika",
+      "description": "Cuando la Legión descansa y se recupera, todos los legionarios tachan una casilla de curación adicional."
+    },
+    "Asrika's Tears": {
+      "name": "Lágrimas de Asrika",
+      "description": "Cuando estáis de luto sentís una profunda sensación de paz. La acción de campaña Libertad ofrece 1 punto de moral y elimina 1 punto de estrés adicional."
+    },
+    "Attrition Strategies": {
+      "name": "Estrategia de desgaste",
+      "description": "Lacra ataca y envenena las rutas de reabastecimiento. Recibís -1d para las tiradas de implicación de las misiones de reabastecimiento."
+    },
+    "Battle-Saint": {
+      "name": "Santa de batalla",
+      "description": "Shreya se convierte en una amenaza de nivel 5 y es eficaz contra todos sus enemigos."
+    },
+    "Blood of Fire": {
+      "name": "Sangre ígnea",
+      "description": "Cuando gastéis suministros religiosos en una misión, todos los legionarios podrán equipar aceite ígneo (1 carga)."
+    },
+    "Blood of the Chosen": {
+      "name": "Sangre de la Elegida",
+      "description": "Al gastar un suministro religioso en una misión, recibís también un arma bendita. El arma es eficaz contra no muertos. Comenzáis con 1 unidad de suministros religiosos gratis."
+    },
+    "Book of Hours": {
+      "name": "Libro de horas",
+      "description": "Todos los especialistas comienzan la partida con dos niveles adicionales de acciones."
+    },
+    "Cruel Gluttony": {
+      "name": "Gula cruel",
+      "description": "Lacra fabrica fluidos capaces de formar ácido dentro de los no muertos. Pueden aparecer sacos de tripas en cualquier misión."
+    },
+    "Dark Visions": {
+      "name": "Visiones oscuras",
+      "description": "Destructora maldice a la Legión con pesadillas aullantes. La Libertad restaura 1 punto menos de estrés."
+    },
+    "Defilement": {
+      "name": "Profanación",
+      "description": "La profanación de lugares religiosos reduce la influencia sagrada en la región. Recibís -1d en las tiradas de implicación de misiones religiosas."
+    },
+    "Forced March": {
+      "name": "Marchas forzadas",
+      "description": "Las tropas de Descoyuntador, impulsadas por la furia, avanzan con gran rapidez. El comandante debe rellenar tres sectores del reloj «Tiempo»."
+    },
+    "Forest's Wings": {
+      "name": "Alas del bosque",
+      "description": "Al gastar suministros religiosos en una misión, los pelotones pueden llevar hasta tres animales capaces de susurrar mensajes al campamento y entre ellos."
+    },
+    "Fury": {
+      "name": "Furia",
+      "description": "Descoyuntador descubre cómo propagar su odio entre sus soldados rasos. Ahora los macilentos se mueven con rapidez y mantienen su astucia aunque el élite muera."
+    },
+    "Great Hunter": {
+      "name": "Gran cazadora",
+      "description": "El intendente puede realizar la acción de campaña Entrenamiento. Cada especialista anota 3 puntos de experiencia en Perspicacia."
+    },
+    "Heart of Heroes": {
+      "name": "Corazón heroico",
+      "description": "Todos los legionarios añaden el siguiente desencadenante de experiencia: «si te enfrentaste por tu cuenta a un oponente con un mayor nivel de amenaza»."
+    },
+    "Heartless": {
+      "name": "Sin corazón",
+      "description": "Descoyuntador otorga fuerza a quienes se arrancan sus propios corazones. Pueden aparecer descorazonados en cualquier misión."
+    },
+    "Hide of the White Hind": {
+      "name": "Piel de la cierva blanca",
+      "description": "Todos los especialistas pueden hablar con animales salvajes y entenderlos."
+    },
+    "Horned God's Bounty": {
+      "name": "Dádiva de la Astada",
+      "description": "Si la Legión avanza después de que Transcurra el Tiempo, no gasta reservas de comida."
+    },
+    "Horned God's Eyes": {
+      "name": "Ojos de la Astada",
+      "description": "Si enviáis a un especialista panyar a una misión de reconocimiento, añadid 1d a la tirada de implicación."
+    },
+    "Horned God's Thews": {
+      "name": "Músculos de la Astada",
+      "description": "Los legionarios pueden gastar armadura especial para resistir consecuencias físicas o esforzarse en cualquier acción de Destreza."
+    },
+    "Living God's Fury": {
+      "name": "Furia del dios viviente",
+      "description": "El intendente puede gastar un suministro religioso antes de una misión de ataque para añadir 1d a la tirada de implicación. En esta misión, los legionarios equipan relicarios y disparo negro."
+    },
+    "Living God's Kiss": {
+      "name": "Beso del dios viviente",
+      "description": "Durante la acción Descanso y Recuperación, cada legionario elimina 2 puntos de corrupción además de curarse."
+    },
+    "Living God's Vigor": {
+      "name": "Vigor del dios viviente",
+      "description": "Los especialistas pueden recibir un daño de nivel 2 adicional."
+    },
+    "Massacre": {
+      "name": "Masacre",
+      "description": "Las salvajes tácticas y el uso profano de los muertos infunden miedo en los soldados. Recibid -1d en las tiradas de implicación de misiones de ataque."
+    },
+    "Modern Warfare": {
+      "name": "Guerra moderna",
+      "description": "Las tropas de Lacra están equipadas con armas y armaduras de buena calidad."
+    },
+    "Nature's Fury": {
+      "name": "Furia de la naturaleza",
+      "description": "Tanto Destructora como las brujas sombrías tienen el poder de maldecir la naturaleza, cubriendo a las tropas con niebla y tormentas y animando árboles en combate."
+    },
+    "Pillar of Skulls": {
+      "name": "Pilar de calaveras",
+      "description": "Destructora crea un pilar de cuerpos gimientes para invocar y corromper a bestias sagradas. Pueden aparecer devoradores en cualquier misión."
+    },
+    "Sacred Seals": {
+      "name": "Sellos sagrados",
+      "description": "Todos los legionarios obtienen armadura especial contra efectos mágicos."
+    },
+    "Scars of War": {
+      "name": "Cicatrices de guerra",
+      "description": "Las tropas de Lacra corrompen la tierra, creando una niebla venenosa que contamina el campo. Esta niebla no siempre está presente, pero puede surgir de forma repentina como consecuencia de una tirada."
+    },
+    "Shapeshifter": {
+      "name": "Cambiaformas",
+      "description": "Recibís 1 de información después de completar 2 misiones principales."
+    },
+    "Shredders": {
+      "name": "Trituradoras",
+      "description": "Estas bolas de cuchillas y sangre de Descoyuntador son restos de espinas que explotan cerca de las tropas. Se las suele enterrar o lanzar hacia los pelotones."
+    },
+    "Spearforge": {
+      "name": "Forja de lanzas",
+      "description": "Descoyuntador forja enormes lanzas corruptoras de hierro negro para los descorazonados y las balistas de los caballeros."
+    },
+    "Star of the Dawn": {
+      "name": "Lucero del alba",
+      "description": "Al avanzar, haced la tirada de presión como si tuvieseis 1 punto menos de presión."
+    },
+    "Storm Riding": {
+      "name": "Cabalgar la tormenta",
+      "description": "Las brujas sombrías aprenden a utilizar la energía de los rayos que hay en el interior de los quemados para saltar de un cuerpo a otro y evitar la muerte."
+    },
+    "The Changing Curse": {
+      "name": "Maldición cambiante",
+      "description": "Las brujas sombrías deforman a los vivos. Pueden aparecer transformados en cualquier misión."
+    },
+    "The Coven": {
+      "name": "Aquelarre",
+      "description": "Destructora imbuye cuerpos aún vivos con partes de sí misma para fabricar acólitos. Pueden aparecer brujas sombrías en cualquier misión."
+    },
+    "The Forge": {
+      "name": "La forja",
+      "description": "Descoyuntador utiliza espadas de caídos y sangre quemada para convertir personas en élites. Pueden aparecer espinas en cualquier misión."
+    },
+    "The Sworn": {
+      "name": "Juramentados",
+      "description": "Algunos juramentos trascienden la muerte. Pueden aparecer caballeros del Roble Negro en cualquier misión."
+    },
+    "Toxic Bile": {
+      "name": "Bilis tóxica",
+      "description": "Los sacos de tripas y los escupidores infligen heridas corruptoras. Al final de una misión, las heridas corrompidas sin tratar causan +1 punto de corrupción cada una."
+    },
+    "Toxic Mutagen": {
+      "name": "Mutágeno tóxico",
+      "description": "Las tropas de Lacra embadurnan sus armas en un aceite alquímico e infligen +1 punto de corrupción cuando hieren a alguien."
+    },
+    "Violent Emulsion": {
+      "name": "Emulsión violenta",
+      "description": "Lacra crea no muertos para aumentar la producción de bilis. Pueden aparecer escupidores en cualquier misión."
+    },
+    "War-Saint": {
+      "name": "Santa de guerra",
+      "description": "El intendente puede realizar la acción de campaña Entrenamiento. Cada especialista anota 3 px en Determinación."
+    },
+    "Wild Awakening": {
+      "name": "Despertar salvaje",
+      "description": "Destructora y las brujas sombrías maldicen animales para convertirlos en espías y manadas enteras para que corran con los transformados."
+    }
+  }
+}

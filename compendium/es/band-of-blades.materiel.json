@@ -1,0 +1,44 @@
+{
+  "label": "Material",
+  "mapping": {
+    "description": "system.description",
+    "type": "system.itemType"
+  },
+  "entries": {
+    "Supply Cart": {
+      "name": "Carros de suministros",
+      "description": "Los carros permiten a la Legión transportar más suministros y reservas de comida sin bajar el ritmo.\nMecánicas: Aumenta el máximo de suministros en 1 y las reservas de comida en 1 por carro (máx. 6).",
+      "type": "Supply Cart"
+    },
+    "Siege Weapons": {
+      "name": "Armas de asedio",
+      "description": "Balista, catapulta, trabuquete o cañón. Se utilizan para atacar posiciones fortificadas o no muertos poderosos.\nMecánicas: Requeridas para algunas misiones especiales. Desplegarlas puede reducir la amenaza o la escala del enemigo. Aumentan la puntuación final.",
+      "type": "Siege Weapons"
+    },
+    "Horses": {
+      "name": "Caballos",
+      "description": "Para equipar a exploradores, traer suministros, etc. Fundamental para la logística.\nMecánicas: Gasta 1 uso de caballos para añadir 1d a la tirada de implicación de una misión de reconocimiento o reducir la presión en 1 cuando avancéis. Puedes gastar varios usos al avanzar.",
+      "type": "Horses"
+    },
+    "Religious Supplies": {
+      "name": "Suministros religiosos",
+      "description": "Huesos de santos, páginas de libros sagrados y otros suministros místicos para combatir a los no muertos.\nMecánicas: Gasta 1 uso de suministros religiosos para añadir 1d a una tirada de implicación de una misión religiosa. Cuando lo hagas, todos los especialistas de la misión equiparán un relicario gratis.",
+      "type": "Religious Supplies"
+    },
+    "Food Stores": {
+      "name": "Reservas de comida",
+      "description": "AUn ejército se mueve con su estómago. Grano, carne curada, etc.\nMecánicas: La Legión consume un uso de comida cada vez que Transcurre el Tiempo. Si esto no fuera posible, la Legión pierde 2 puntos de moral. Gasta un uso de comida para añadir 1d a la tirada de implicación de una misión de reabastecimiento. Cuando lo hagas, todos los especialistas de la misión equiparán suministros gratis.",
+      "type": "Food Store"
+    },
+    "Black Shot": {
+      "name": "Disparo negro",
+      "description": "Metal transmutado para convertirse en la némesis de los no muertos.\nMecánicas: Gasta un uso de disparo negro (círculo) para añadir 1d a la tirada de implicación de una misión de ataque. Cuando lo hagas, todos los especialistas de la misión equiparán disparo negro gratis.",
+      "type": "Black Shot"
+    },
+    "Other": {
+      "name": "Otro",
+      "description": "Cualquier recurso especial o elemento que deba contabilizarse. Cambia el nombre para especificarlo y el campo Usos para contabilizar los usos.",
+      "type": "Other"
+    }
+  }
+}

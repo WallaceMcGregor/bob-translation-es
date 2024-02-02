@@ -1,0 +1,32 @@
+{
+  "label": "Pelotones",
+  "mapping": {
+    "description": "system.description"
+  },
+  "entries": {
+    "Ghost Owls": {
+      "name": "Lechuzas Fantasma",
+      "description": "Cuando la Legión necesita resolver problemas rápida y sigilosamente, envía a las Lechuzas. Tradicionalmente, este pelotón está formado por legionarios con experiencia como agentes especiales y entrenamiento en infiltración y extracción. Un hecho poco conocido es que su lema es un imperativo para mantenerse tranquilos en cualquier circunstancia. Muchos francotiradores y exploradores de la Legión fueron antes miembros de las Lechuzas.\nLema del pelotón: Calma antes de la tormenta."
+    },
+    "Shattered Lions": {
+      "name": "Leones Heridos",
+      "description": "Unidad de élite de la Legión. Antiguamente conocidos como los Leones Carmesíes, este pelotón fue el primero en formarse y sirvió como guardia personal del emperador Tantarus. Cuando la Legión quedó reducida a un puñado de individuos, consiguieron rescatar los Anales y volvieron a formarse como los Leones Heridos. Este pelotón porta el estandarte de la Legión y muchos comandantes y mariscales son veteranos salidos de entre sus filas.\nLema del pelotón: El orgullo de la Legión."
+    },
+    "Grinning Ravens": {
+      "name": "Cuervos Sonrientes",
+      "description": "Los Cuervos son la columna vertebral de la Legión y tradicionalmente el pelotón más numeroso. Esta unidad es una formación de segunda oleada que sigue a los Lobos de Ceniza para alcanzar posiciones enemigas y resistir contra todo pronóstico. Su fundadora era conocida por su lanza y su costumbre de reírse en medio de la batalla, cuando parecía que no quedaba ninguna esperanza.\nLema del pelotón: Nos reímos de la muerte."
+    },
+    "Ember Wolves": {
+      "name": "Lobos de Ceniza",
+      "description": "Los Lobos de Ceniza son la vanguardia de la Legión, las tropas de choque que primero se envían al combate. Los Lobos cargan frontalmente contra el peligro y crean confusión entre las filas enemigas para que el resto de la Legión pueda avanzar. Este pelotón fue fundado hace mucho tiempo por una mujer zemyati apodada «la Loba Sangrienta». Desde entonces, se les conoce por prestarse voluntarios para ir allí donde la batalla esté más encarnizada.\nLema del pelotón: Siempre en primera línea."
+    },
+    "Silver Stags": {
+      "name": "Ciervos Plateados",
+      "description": "Los Ciervos Plateados fueron creados hace menos de un siglo y se han convertido en la retaguardia de la Legión. El pelotón se formó después de que un puñado de legionarios resistieran en un pueblo contra una fuerza muy superior sobreviviendo a base de ratas y el cuero de sus zapatos. Después de este episodio, su líder pidió estar al mando de su propio pelotón. A los Ciervos Plateados se los suele enviar a misiones desesperadas en las que resulta vital mantener la posición o se deben tomar duras decisiones.\nLema del pelotón: Cueste lo que cueste."
+    },
+    "Star Vipers": {
+      "name": "Víboras Estrella",
+      "description": "A lo largo del tiempo, la Legión se ha enzarzado con grandes bestias, ha luchado junto a varios Elegidos y se ha enfrentado a situaciones extremas. Las Víboras experimentan con extrañas sustancias alquímicas, prueban nuevas armas y están entrenadas para manejar, investigar y enfrentarse a lo sobrenatural. Este pelotón ha sacrificado mucho a lo largo de los años y atrae a individuos ecléticos.\nLema del pelotón: La luz en la oscuridad."
+    }
+  }
+}

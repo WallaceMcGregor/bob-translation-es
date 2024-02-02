@@ -1,0 +1,74 @@
+{
+  "label": "Red de espías",
+  "mapping": {
+    "description": "system.description",
+    "requirements": "system.requirements"
+  },
+  "entries": {
+    "Entrapment": {
+      "name": "Trampas",
+      "description": "Los espías reciben +1d en operaciones para Tender una trampa.",
+      "requirements": "Red de espías"
+    },
+    "Trained 1": {
+      "name": "Entrenamiento 1",
+      "description": "Uno de tus espías entrenados se convierte en maestro. Se puede adquirir dos veces.",
+      "requirements": "Adquisición"
+    },
+    "Rangers": {
+      "name": "Exploradores",
+      "description": "Las misiones de reconocimiento amplificadas ofrecen +1 información además del resto de recompensas.",
+      "requirements": "Fuentes"
+    },
+    "Field Assessment": {
+      "name": "Evaluación de campo",
+      "description": "Puedes hacer 1 pregunta adicional al Interrogar.",
+      "requirements": "Red de espías"
+    },
+    "Analysts": {
+      "name": "Analistas",
+      "description": "Los espías reciben +1d en sus operaciones de Investigación.",
+      "requirements": "Red de espías"
+    },
+    "Spy Network": {
+      "name": "Red de espías",
+      "description": "Eres capaz de entrenar, mantener y utilizar espías. Comienzas con 2 espías: uno entrenado y un maestro.",
+      "requirements": ""
+    },
+    "Merchants": {
+      "name": "Mercaderes",
+      "description": "Las misiones de reabastecimiento amplificadas ofrecen +1 unidad de suministros además del resto de recompensas.",
+      "requirements": "Fuentes"
+    },
+    "Mercenaries": {
+      "name": "Mercenarios",
+      "description": "Las misiones de ataque amplificadas ofrecen +1 de moral además del resto de recompensas.",
+      "requirements": "Fuentes"
+    },
+    "Acquisition": {
+      "name": "Adquisición",
+      "description": "Recibe otro espía. Marca su casilla Entrenado.",
+      "requirements": "Red de espías"
+    },
+    "Trained 2": {
+      "name": "Entrenamiento 2",
+      "description": "Uno de tus espías entrenados se convierte en maestro. Se puede adquirir dos veces.",
+      "requirements": "Adquisición"
+    },
+    "Sources": {
+      "name": "Fuentes",
+      "description": "Tienes contactos e informantes locales por todas partes. Los espías reciben +1d en operaciones para amplificar misiones.",
+      "requirements": "Red de espías"
+    },
+    "Holy Orders": {
+      "name": "Órdenes sagradas",
+      "description": "Las misiones religiosas amplificadas ofrecen +1 recurso además del resto de recompensas.",
+      "requirements": "Fuentes"
+    },
+    "Investments": {
+      "name": "Inversión",
+      "description": "Los espías reciben +1d en operaciones para ampliar la red.",
+      "requirements": "Analistas"
+    }
+  }
+}

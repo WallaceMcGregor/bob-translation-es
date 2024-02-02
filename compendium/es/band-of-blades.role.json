@@ -1,0 +1,34 @@
+{
+  "label": "Roles",
+  "mapping": {
+    "description": "system.description",
+    "abilities": "system.def_abilities"
+  },
+  "entries": {
+    "Quartermaster": {
+      "name": "Intendente",
+      "description": "Como intendente, estás al mando del personal civil y controlas todos los suministros y armas de la Legión. Decide con qué equipar a los pelotones para prepararlos para las misiones por venir. Declara acciones de campaña entre misiones para reabastecer a las tropas, anticiparte a cualquier problema y adquirir los tan necesarios suministros para vuestro viaje.",
+      "abilities": ""
+    },
+    "Spymaster": {
+      "name": "Jefe de espías",
+      "description": "El título oficial del jefe de espías es «Maestro de Susurros». Tu trabajo es encontrar y entrenar a las personas adecuadas para resolver los problemas que cien hombres no están preparados para resolver. Existen docenas de historias y relatos sobre cada uno de los individuos extravagantes con los que te relacionas.",
+      "abilities": "Red de espías"
+    },
+    "Commander": {
+      "name": "Comandante",
+      "description": "Como comandante, personificas el propósito y la dirección de la Legión. Elige la ruta de la Legión. Decide en qué tipo de misión os vais a centrar. La Legión no puede permitirse enviar a muchos legionarios, así que prioriza las misiones que necesites y acepta las penalizaciones cuando no puedas llevarlas a cabo.",
+      "abilities": ""
+    },
+    "Lorekeeper": {
+      "name": "Cronista",
+      "description": "Los legionarios recurren al cronista para que les recuerde las dificultades y tribulaciones a las que han sobrevivido y los conecte con los héroes del pasado. Habla con los demás roles para que tomen decisiones de acuerdo con los valores de la Legión. De ti se espera que escribas sobre lo que sucede y recuerdes a los muertos en los Anales de los Caídos.",
+      "abilities": ""
+    },
+    "Marshal": {
+      "name": "Mariscal",
+      "description": "Como mariscal, envías a los soldados al combate. Asignas a pelotones y especialistas a las misiones que elige el comandante. Eres responsable de asegurarte de que tengan grandes probabilidades de volver al campamento. Controlas la moral, la experiencia de las tropas y la salud. Tú decides quién está al mando de las misiones.",
+      "abilities": ""
+    }
+  }
+}

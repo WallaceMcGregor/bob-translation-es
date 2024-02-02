@@ -1,0 +1,298 @@
+{
+    "label": "Libretos",
+    "mapping": {
+        "description": "system.description",
+        "experience": "system.experience_clues",
+        "label": "system.label",
+        "abilities": "system.def_abilities",
+        "effects": {
+            "path": "effects",
+            "converter": "effectConverter"
+        }
+    },
+    "entries": {
+        "Heavy": {
+            "name": "Tanque",
+            "description": "Juega con un tanque si quieres destacar por tu fuerza y tu determinación contra la oscuridad.",
+            "experience": "Si has utilizado la fuerza o la resistencia para ayudar a tu pelotón.",
+            "label": "Misiones de Ataque y Reabastecimiento",
+            "abilities": "",
+            "effects": {
+                "51tr26GOaUaniMYv": {
+                    "changes": [
+                        {
+                            "key": "system.class",
+                            "mode": 5,
+                            "value": "Heavy",
+                            "priority": null
+                        },
+                        {
+                            "key": "system.trauma.max",
+                            "mode": 2,
+                            "value": "1",
+                            "priority": null
+                        },
+                        {
+                            "key": "system.item_triggers.spec_skill",
+                            "mode": 5,
+                            "value": "anchor",
+                            "priority": null
+                        },
+                        {
+                            "key": "system.attributes.prowess.skills.skirmish.value",
+                            "mode": 4,
+                            "value": "2",
+                            "priority": null
+                        },
+                        {
+                            "key": "system.attributes.prowess.skills.wreck.value",
+                            "mode": 4,
+                            "value": "1",
+                            "priority": null
+                        }
+                    ]
+                }
+            }
+        },
+        "Rookie": {
+            "name": "Novato",
+            "description": "Juega con un novato si quieres demostrar tu valía en el campo de batalla.",
+            "experience": "Si no has obstaculizado a tu pelotón y has sobrevivido pese a todo.",
+            "label": "N/A",
+            "abilities": ""
+        },
+        "Sniper": {
+            "name": "Francotirador",
+            "description": "Juega con un francotirador si quieres ser la amenaza más peligrosa a gran distancia.",
+            "experience": "Si has utilizado tu agudo sentido de la observación o disparos clave para ayudar a tu pelotón.",
+            "label": "Misiones de Ataque y Reconocimiento",
+            "abilities": "",
+            "effects": {
+                "aYBDv8gWhCQwveau": {
+                    "changes": [
+                        {
+                            "key": "system.class",
+                            "mode": 5,
+                            "value": "Sniper",
+                            "priority": null
+                        },
+                        {
+                            "key": "system.trauma.max",
+                            "mode": 2,
+                            "value": "1",
+                            "priority": null
+                        },
+                        {
+                            "key": "system.item_triggers.spec_skill",
+                            "mode": 5,
+                            "value": "aim",
+                            "priority": null
+                        },
+                        {
+                            "key": "system.attributes.insight.skills.scout.value",
+                            "mode": 4,
+                            "value": "1",
+                            "priority": null
+                        },
+                        {
+                            "key": "system.attributes.prowess.skills.shoot.value",
+                            "mode": 4,
+                            "value": "2",
+                            "priority": null
+                        }
+                    ]
+                }
+            }
+        },
+        "Scout": {
+            "name": "Explorador",
+            "description": "Juega con un explorador si tu objetivo es anticipar los movimientos del enemigo y saber en todo momento a lo que os enfrentáis.",
+            "experience": "Si has utilizado el sigilo o la previsión para ayudar a tu pelotón.",
+            "label": "Misiones de Reconocimiento o Reabastecimiento",
+            "abilities": "",
+            "effects": {
+                "ai1GvzC4JkmuwgsY": {
+                    "changes": [
+                        {
+                            "key": "system.class",
+                            "mode": 5,
+                            "value": "Scout",
+                            "priority": null
+                        },
+                        {
+                            "key": "system.trauma.max",
+                            "mode": 2,
+                            "value": "1",
+                            "priority": null
+                        },
+                        {
+                            "key": "system.item_triggers.spec_skill",
+                            "mode": 5,
+                            "value": "scrounge",
+                            "priority": null
+                        },
+                        {
+                            "key": "system.attributes.insight.skills.scout.value",
+                            "mode": 4,
+                            "value": "2",
+                            "priority": null
+                        },
+                        {
+                            "key": "system.attributes.prowess.skills.maneuver.value",
+                            "mode": 4,
+                            "value": "1",
+                            "priority": null
+                        }
+                    ]
+                }
+            }
+        },
+        "Officer": {
+            "name": "Oficial",
+            "description": "Juega con un oficial si quieres liderar a tus tropas hacia la victoria, aunque se enfrenten a una muerte segura.",
+            "experience": "Si has utilizado la disciplina o la planificación estratégica para ayudar a tu pelotón.",
+            "label": "Misiones Religiosas y de Reabastecimiento",
+            "abilities": "",
+            "effects": {
+                "hBkxMAsEUZaq3hEs": {
+                    "changes": [
+                        {
+                            "key": "system.class",
+                            "mode": 5,
+                            "value": "Officer",
+                            "priority": null
+                        },
+                        {
+                            "key": "system.trauma.max",
+                            "mode": 2,
+                            "value": "1",
+                            "priority": null
+                        },
+                        {
+                            "key": "system.item_triggers.spec_skill",
+                            "mode": 5,
+                            "value": "channels",
+                            "priority": null
+                        },
+                        {
+                            "key": "system.attributes.resolve.skills.sway.value",
+                            "mode": 4,
+                            "value": "2",
+                            "priority": null
+                        },
+                        {
+                            "key": "system.attributes.resolve.skills.discipline.value",
+                            "mode": 4,
+                            "value": "1",
+                            "priority": null
+                        }
+                    ]
+                }
+            }
+        },
+        "Medic": {
+            "name": "Médico",
+            "description": "Juega con un médico si pretendes ayudar a que tus compañeros sobrevivan a la misión.",
+            "experience": "Si has utilizado tus conocimientos médicos o apoyo emocional para ayudar a tu pelotón.",
+            "label": "Misiones de Ataque y Religiosas",
+            "abilities": "(M) Agregado",
+            "effects": {
+                "d4IWaKkrQOKW4Jio": {
+                    "changes": [
+                        {
+                            "key": "system.class",
+                            "mode": 5,
+                            "value": "Medic",
+                            "priority": null
+                        },
+                        {
+                            "key": "system.trauma.max",
+                            "mode": 2,
+                            "value": "1",
+                            "priority": null
+                        },
+                        {
+                            "key": "system.item_triggers.spec_skill",
+                            "mode": 5,
+                            "value": "doctor",
+                            "priority": null
+                        },
+                        {
+                            "key": "system.attributes.insight.skills.research.value",
+                            "mode": 4,
+                            "value": "2",
+                            "priority": null
+                        },
+                        {
+                            "key": "system.attributes.prowess.skills.maneuver.value",
+                            "mode": 4,
+                            "value": "1",
+                            "priority": null
+                        },
+                        {
+                            "key": "system.attributes.resolve.skills.consort.value",
+                            "mode": 4,
+                            "value": "1",
+                            "priority": null
+                        },
+                        {
+                            "key": "system.attributes.resolve.skills.discipline.value",
+                            "mode": 4,
+                            "value": "1",
+                            "priority": null
+                        }
+                    ]
+                }
+            }
+        },
+        "Soldier": {
+            "name": "Soldado",
+            "description": "Juega con un soldado si quieres atravesar los momentos más difíciles con la entereza de un recio veterano.",
+            "experience": "Si has ayudado a tu pelotón con tu valentía o tu determinación.",
+            "label": "N/A",
+            "abilities": "",
+            "effects": {
+                "zFPySQheqPsrT86y": {
+                    "changes": [
+                        {
+                            "key": "system.class",
+                            "mode": 5,
+                            "value": "Soldier",
+                            "priority": null
+                        },
+                        {
+                            "key": "system.trauma.max",
+                            "mode": 2,
+                            "value": "1",
+                            "priority": null
+                        },
+                        {
+                            "key": "system.item_triggers.spec_skill",
+                            "mode": 5,
+                            "value": "grit",
+                            "priority": null
+                        },
+                        {
+                            "key": "system.attributes.prowess.skills.skirmish.value",
+                            "mode": 4,
+                            "value": "1",
+                            "priority": null
+                        },
+                        {
+                            "key": "system.attributes.prowess.skills.maneuver.value",
+                            "mode": 4,
+                            "value": "1",
+                            "priority": null
+                        },
+                        {
+                            "key": "system.attributes.resolve.skills.consort.value",
+                            "mode": 4,
+                            "value": "1",
+                            "priority": null
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}
