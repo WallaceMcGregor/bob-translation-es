@@ -28,7 +28,7 @@
     "Food Stores": {
       "name": "Reservas de comida",
       "description": "AUn ejército se mueve con su estómago. Grano, carne curada, etc.\nMecánicas: La Legión consume un uso de comida cada vez que Transcurre el Tiempo. Si esto no fuera posible, la Legión pierde 2 puntos de moral. Gasta un uso de comida para añadir 1d a la tirada de implicación de una misión de reabastecimiento. Cuando lo hagas, todos los especialistas de la misión equiparán suministros gratis.",
-      "type": "Food Store"
+      "type": "Food Stores"
     },
     "Black Shot": {
       "name": "Disparo negro",
