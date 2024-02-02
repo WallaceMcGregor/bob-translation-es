@@ -62,7 +62,7 @@
             "abilities": ""
         },
         "Sniper": {
-            "name": "Francotirador",
+            "name": "Sniper",
             "description": "Juega con un francotirador si quieres ser la amenaza más peligrosa a gran distancia.",
             "experience": "Si has utilizado tu agudo sentido de la observación o disparos clave para ayudar a tu pelotón.",
             "label": "Misiones de Ataque y Reconocimiento",
